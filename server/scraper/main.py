@@ -15,7 +15,7 @@ from app import models
 from app.db import SessionLocal
 
 from .chrome_driver import ChromeDriver
-from .operating_hour_extractor import OperatingHoursExtractor, DAYS_OF_WEEK
+from .operating_hours_extractor import OperatingHoursExtractor, DAYS_OF_WEEK
 
 logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 URL = "https://subway.com.my/find-a-subway"
