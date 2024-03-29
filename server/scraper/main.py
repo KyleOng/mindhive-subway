@@ -1,9 +1,11 @@
-from datetime import datetime
-import json
 import logging
 import sys
+from datetime import datetime
+from io import TextIOWrapper
 from typing import Callable, List
 
+from app import models
+from app.db import SessionLocal
 from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.remote.webelement import WebElement
@@ -11,17 +13,13 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 from sqlalchemy.orm import Session
 
-from app import models
-from app.db import SessionLocal
-
 from .chrome_driver import ChromeDriver
-from .operating_hours_extractor import OperatingHoursExtractor, DAYS_OF_WEEK
+from .operating_hours_extractor import DAYS_OF_WEEK, OperatingHoursExtractor
 
 logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 URL = "https://subway.com.my/find-a-subway"
 QUERY = "kuala lumpur"
-
-file = open("example.txt", "w")
+FILE = "output.txt"
 
 
 def wait(
@@ -61,7 +59,9 @@ def search_input_field_button_and_click(driver: WebDriver):
     search_address_button.click()
 
 
-def process_outlet_operating_hours(text: str, db_outlet: models.Outlet):
+def process_outlet_operating_hours(
+    text: str, db_outlet: models.Outlet, file: TextIOWrapper
+):
     text = text.replace(" ", "")
     extractor = OperatingHoursExtractor()
 
@@ -80,10 +80,10 @@ def process_outlet_operating_hours(text: str, db_outlet: models.Outlet):
         file.write(day_of_week + " " + start_time_str + " - " + end_time_str + "\n")
 
         db_outlet_operating_hours = models.OperatingHour(
-            outlet_id = db_outlet.id,
-            day_of_the_week = DAYS_OF_WEEK.index(day_of_week),
-            start_time = start_time,
-            end_time = end_time,
+            outlet_id=db_outlet.id,
+            day_of_the_week=DAYS_OF_WEEK.index(day_of_week),
+            start_time=start_time,
+            end_time=end_time,
         )
         db.add(db_outlet_operating_hours)
         db.commit()
@@ -92,7 +92,7 @@ def process_outlet_operating_hours(text: str, db_outlet: models.Outlet):
     # fasting_operating_hours = extractor.extract_fasting_operating_hours_from_text(text)
 
 
-def process_outlets(outlets: List[WebElement], db: Session):
+def process_outlets(outlets: List[WebElement], db: Session, file: TextIOWrapper):
     for outlet in outlets:
         left_panel = outlet.find_element(
             By.XPATH, ".//div[contains(@class, 'location_left')]"
@@ -124,12 +124,11 @@ def process_outlets(outlets: List[WebElement], db: Session):
         db.commit()
         db.refresh(db_outlet)
 
-        process_outlet_operating_hours(outlet_info.text, db_outlet)
-
+        process_outlet_operating_hours(outlet_info.text, db_outlet, file)
         file.write("\n")
 
 
-def search_and_process_outlets(driver: WebDriver, db: Session):
+def search_and_process_outlets(driver: WebDriver, db: Session, file: TextIOWrapper):
     # get outlets based on search query
     outlets: List[WebElement] = wait(
         driver,
@@ -138,20 +137,25 @@ def search_and_process_outlets(driver: WebDriver, db: Session):
         "//div[contains(@class, 'fp_listitem') and not(contains(@style, 'display: none'))]",
         EC.visibility_of_all_elements_located,
     )
-    process_outlets(outlets, db)
+    process_outlets(outlets, db, file)
 
 
 if __name__ == "__main__":
+    db = SessionLocal()
+    file = open(FILE, "w")
+
+    # tech debt:
+    # for time constraint, we delete all rows for all database and reload them with new data.
+    # a better approach, would be check if outlet/operating hours exist in table before adding them.
+    db.query(models.OperatingHour).delete()
+    db.query(models.Outlet).delete()
+    db.commit()
+
     with ChromeDriver() as driver:
-        db = SessionLocal()
-        try:
-            driver.get(URL)
-            search_input_field_and_fill(driver)
-            search_input_field_button_and_click(driver)
-            search_and_process_outlets(driver, db)
-        except Exception as e:
-            breakpoint()
-            pass
-        finally:
-            db.close()
-            file.close()
+        driver.get(URL)
+        search_input_field_and_fill(driver)
+        search_input_field_button_and_click(driver)
+        search_and_process_outlets(driver, db, file)
+
+    db.close()
+    file.close()
