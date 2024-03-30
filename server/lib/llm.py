@@ -11,9 +11,8 @@ from langchain_community.agent_toolkits.sql.base import create_sql_agent
 from langchain_community.agent_toolkits.sql.toolkit import SQLDatabaseToolkit
 from langchain_community.vectorstores.faiss import FAISS
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+from lib.prompts import examples, prefix
 from sqlalchemy import create_engine
-
-from .prompts import examples, prefix
 
 load_dotenv()
 
@@ -66,7 +65,7 @@ agent_executor = create_sql_agent(
 
 # agent_executor.invoke(
 #     {
-#         "input": "Which outlet closed the latest?",
+#         "input": "Which outlets close the latest on friday?",
 #         "dialect": "PostgreSQL",
 #         "top_k": 10,
 #     }
