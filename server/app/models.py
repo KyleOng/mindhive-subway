@@ -1,4 +1,5 @@
 from sqlalchemy import (
+    CheckConstraint,
     Column,
     Integer,
     String,
@@ -10,7 +11,7 @@ from sqlalchemy import (
 )
 from sqlalchemy.orm import relationship
 
-from .db import Base
+from app.db import Base
 
 
 class Outlet(Base):
@@ -20,8 +21,8 @@ class Outlet(Base):
     name = Column(String)
     address = Column(String)
     waze_link = Column(String)
-    longitude = Column(DECIMAL, default=0)
     latitude = Column(DECIMAL, default=0)
+    longitude = Column(DECIMAL, default=0)
     created_at = Column(TIMESTAMP, server_default=func.now())
     updated_at = Column(TIMESTAMP, server_default=func.now(), onupdate=func.now())
 
@@ -36,7 +37,7 @@ class OperatingHour(Base):
 
     id = Column(Integer, primary_key=True)
     outlet_id = Column(Integer, ForeignKey("outlets.id"))
-    day_of_the_week = Column(String)
+    day_of_week = Column(Integer)
     start_time = Column(Time)
     end_time = Column(Time)
     created_at = Column(TIMESTAMP, server_default=func.now())
@@ -45,4 +46,6 @@ class OperatingHour(Base):
     outlet = relationship("Outlet", back_populates="operating_hours")
 
     def __repr__(self):
-        return f"OperatingHour(id={self.id}, outlet_id={self.outlet_id}, day_of_the_week='{self.day_of_the_week}', start_time='{self.start_time}', end_time='{self.end_time}')"
+        return f"OperatingHour(id={self.id}, outlet_id={self.outlet_id}, day_of_week='{self.day_of_week}', start_time='{self.start_time}', end_time='{self.end_time}')"
+
+    __table_args__ = (CheckConstraint("day_of_week >= 0 AND day_of_week <= 6"),)

@@ -6,8 +6,8 @@ class OutletBase(BaseModel):
     name: str
     address: str
     waze_link: str
-    longitude: float = 0
     latitude: float = 0
+    longitude: float = 0
 
 
 class OutletCreate(OutletBase):
@@ -24,7 +24,7 @@ class Outlet(OutletBase):
 
 
 class OperatingHourBase(BaseModel):
-    day_of_the_week: str
+    day_of_week: str
     start_time: time
     end_time: time
 
