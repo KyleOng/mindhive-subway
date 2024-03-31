@@ -1,10 +1,13 @@
 import os
 
 from dotenv import load_dotenv
-from langchain.prompts import (FewShotPromptTemplate, MessagesPlaceholder,
-                               PromptTemplate,
-                               SemanticSimilarityExampleSelector,
-                               SystemMessagePromptTemplate)
+from langchain.prompts import (
+    FewShotPromptTemplate,
+    MessagesPlaceholder,
+    PromptTemplate,
+    SemanticSimilarityExampleSelector,
+    SystemMessagePromptTemplate,
+)
 from langchain.prompts.chat import ChatPromptTemplate
 from langchain.sql_database import SQLDatabase
 from langchain_community.agent_toolkits.sql.base import create_sql_agent

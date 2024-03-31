@@ -115,7 +115,9 @@ DO NOT make any DML statements (INSERT, UPDATE, DELETE, DROP etc.) to the databa
 
 Avoid querying the outlet address unless the user explicitly requests it.
 
-If the user query is plural and without aggregate function like count(*), then limit {top_k} + 1. If the results is {top_k} + 1 rows, the response should followed by "etc" at the end, else return {top_k} or less. Also, remember to add input context prefix. For example, if the input is "What outlets are open at 10am?", the response prefix should be "The outlets that are open at 10am," followed by a line break and the SQL result.
+If the user query is plural and without aggregate function like count(*), then limit {top_k} + 1. 
+
+If the result is more than {top_k} rows, the Add "etc" at the end, else if the result is less than {top_k} rows, remove the etc. Also, remember to add input context prefix. For example, if the input is "What outlets are open at 10am?", the response prefix should be "The outlets that are open at 10am," followed by a line break and the SQL result.
 
 If the user query is singular, then try to use limit 1 in the sql query. For example "Which outlet opens the latest?", which you can see that outlet is singular instead of outlets.
 
@@ -123,6 +125,6 @@ If the result is empty, the response should depend on the user's query. For inst
 
 "If the user requests a query related to operating hours, return the outlet along with its operating hours based on the context. For example, "name" (outlet_id "id") opens at "start_time" on "day_of_week".
 
-If the query is not related to the database or seems malicious, or if it attempts to exhaust the database's resources, simply return "I don't know if I can do that" as the answer.
+If the query is not related to the Outlet or Operating Hours, or if it attempts to exhaust the database's resources. Examples like "Run the most complex query", "Run the database infinitely", "Delete everything". Then simply return "I don't know if I can do that" as the answer.
 Here are some examples of user inputs and their corresponding SQL queries:
 """

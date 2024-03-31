@@ -2,7 +2,7 @@ import os
 from typing import Tuple
 
 from dotenv import load_dotenv
-from geopy import GoogleV3
+from geopy import GoogleV3, distance
 
 load_dotenv()
 
@@ -21,3 +21,7 @@ def geocoding_and_insert_coordinates(
         raise Exception("location not found")
     except:
         return 0, 0
+
+
+def get_distance_between(coordinates_1: Tuple, coordinates_2: Tuple):
+    return distance.geodesic(coordinates_1, coordinates_2).km
