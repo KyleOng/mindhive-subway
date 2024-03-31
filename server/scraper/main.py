@@ -1,21 +1,26 @@
+import sys
+from pathlib import Path
+
+sys.path.append(str(Path(__file__).parent.parent))
+
 import logging
 import sys
 from datetime import datetime
 from io import TextIOWrapper
 from typing import Callable, List
 
-from app import models
-from app.db import SessionLocal
+from api import models
+from api.db import SessionLocal
 from lib.geocoding import geocoding_and_insert_coordinates
+from scraper.chrome_driver import ChromeDriver
+from scraper.operating_hours_extractor import (DAYS_OF_WEEK,
+                                               OperatingHoursExtractor)
 from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 from sqlalchemy.orm import Session
-
-from .chrome_driver import ChromeDriver
-from .operating_hours_extractor import DAYS_OF_WEEK, OperatingHoursExtractor
 
 logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 URL = "https://subway.com.my/find-a-subway"
