@@ -1,0 +1,1768 @@
+Subway Menara UOA Bangsar
+https://www.waze.com/en/live-map/directions/my/federal-territory-of-kuala-lumpur/kuala-lumpur/subway-@-menara-uoa-bangsar?place=ChIJPWFRH5RJzDERvHvlO1uTQpY
+Jalan Bangsar Utama 1, Unit 1-2-G, Menara UOA Bangsar, Kuala Lumpur, 59000
+Monday - Sunday, 8:00 AM - 8:00 PM
+3.127005, 101.6768552
+MON 08:00 AM - 08:00 PM
+TUE 08:00 AM - 08:00 PM
+WED 08:00 AM - 08:00 PM
+THU 08:00 AM - 08:00 PM
+FRI 08:00 AM - 08:00 PM
+SAT 08:00 AM - 08:00 PM
+SUN 08:00 AM - 08:00 PM
+
+Subway One Utama
+https://www.waze.com/en/live-map/directions/my/selangor/pj/1-utama-shopping-centre?place=ChIJL-Qvn9JOzDERBLmeTTrrgf0
+318A One Utama, Lower Ground Floor, New Wing, 1 Utama Shopping Centre, Petaling Jaya, 47800
+0800 - 2200 (Sun - Thur)
+0800 - 2230 (Fri & Sat)
+3.1480679, 101.6164417
+SUN 08:00 AM - 10:00 PM
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:30 PM
+SAT 08:00 AM - 10:30 PM
+
+Subway Jln Pinang
+https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-@-jalan-pinang-kl?place=ChIJIzvym9Q3zDER9MZj809Opn0
+G9, Wisma UOA II, 19, Jalan Pinang, Kuala Lumpur, 50450
+Monday - Saturday, 8:00 AM – 9:00PM
+Sunday, 11:30 AM – 6:30PM
+3.1523198, 101.7122418
+MON 08:00 AM - 09:00 PM
+TUE 08:00 AM - 09:00 PM
+WED 08:00 AM - 09:00 PM
+THU 08:00 AM - 09:00 PM
+FRI 08:00 AM - 09:00 PM
+SAT 08:00 AM - 09:00 PM
+SUN 11:30 AM - 06:30 PM
+
+Subway UOA Damansara
+https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-@-wisma-uoa-damansara?place=ChIJa5Vpq1RIzDER8-Wwe3eFNUI
+Unit 50-G-5, Ground Floor, Wisma UOA Damansara, No. 50, Jalan Dungun, Kuala Lumpur, 50490
+Monday - Saturday, 8:00 AM – 8:30PM
+Sunday, Closed
+3.1517288, 101.6660061
+MON 08:00 AM - 08:30 PM
+TUE 08:00 AM - 08:30 PM
+WED 08:00 AM - 08:30 PM
+THU 08:00 AM - 08:30 PM
+FRI 08:00 AM - 08:30 PM
+SAT 08:00 AM - 08:30 PM
+
+Subway The Mines
+https://www.waze.com/en/live-map/directions/subway-the-mines-shopping-mall-jalan-dulang,-l1-93-seri-kembangan?place=w.66650142.666632495.27412970
+Lot L1-93, Level 1, Mines Shopping Fair,Jln Dulang, Mines Resort City, Seri Kembangan, 43300
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.0288601, 101.7186799
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Mont Kiara
+https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-@-plaza-montkiara?place=ChIJ62Fw6vFIzDEReI7qDH2RtxQ
+E-01-16 ,Block E, Plaza Mont Kiara, 2 Jalan Kiara, Mont Kiara, Kuala Lumpur, 50480
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.1656857, 101.6519562
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Amcorp Mall
+https://www.waze.com/en/live-map/directions/my/selangor/pj/subway-@-amcorp-mall-pj?place=ChIJgcEy_dpLzDERqz_XQPpVA2U
+(Canopy Area), Lot KG-05, 18 Jln Persiaran, Ground Floor, Barat, Petaling Jaya, 46050
+Monday - Friday, 9:00 AM – 10:00PM
+Saturday & Sunday, 10:00 AM – 10:00PM
+3.0884904, 101.6465527
+MON 09:00 AM - 10:00 PM
+TUE 09:00 AM - 10:00 PM
+WED 09:00 AM - 10:00 PM
+THU 09:00 AM - 10:00 PM
+FRI 09:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Avenue K
+https://www.waze.com/en/live-map/directions/subway-avenue-k-lot-uc-8-and-9,-upper-concourse-level,-avenue-k-kuala-lumpur?place=w.66650144.666566972.27413004
+Lot UC-8 & 9, Upper Concourse Level, Avenue K, No. 156, Jalan Ampang, Kuala Lumpur, 50450
+Monday - Sunday, 8:00 AM - 10:00 PM
+3.158154, 101.7120899
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Center Point
+https://www.waze.com/en/live-map/directions/subway-lebuh-bandar-utama-lebuh-bandar-utama,-center-point,-lot-g104b-petaling-jaya?place=w.66584607.665911610.27441776
+Lebuh Bandar Utama, Center Point, Lot G104B Gr Floor, Petaling Jaya, 47800
+Monday, 8:00 AM – 10:00PM
+Tuesday - Wednesday, 8:00 AM – 10:30PM
+Thursday, 8:00 AM – 9:00PM
+Friday & Saturday, 8:00 AM – 11:00PM
+Sunday, 8:00 AM – 10:30PM
+3.1467185, 101.6119073
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:30 PM
+WED 08:00 AM - 10:30 PM
+THU 08:00 AM - 09:00 PM
+FRI 08:00 AM - 11:00 PM
+SAT 08:00 AM - 11:00 PM
+SUN 08:00 AM - 10:30 PM
+
+Subway Shell Sunway Mentari
+https://waze.com/ul?ll=3.079525,101.609623
+1, Jalan PJS 8/9 (Shell) Bandar Sunway, 46000 Selangor
+Monday - Sunday (08:00AM - 10:00PM)
+3.0795253, 101.6096226
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Berjaya Times Square
+https://www.waze.com/en/live-map/directions/subway-berjaya-times-square-lot-03-103,-3rd-floor,-berjaya-times-square-kuala-lumpur?place=w.66650143.666566970.27413449
+LG-08A, Berjaya Times Square, No. 1, Jalan Imbi, Kuala Lumpur, 55100
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.1425177, 101.7103847
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Capsquare
+https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-@-capsquare?place=ChIJy-MVCLdJzDER31pWsrn_WZE
+Ground Floor, Unit 01-02, Cap Square Tower, 10 Jalan Munshi Abdullah, Kuala Lumpur, 50100
+Monday - Saturday, 8:00 AM – 9:00PM
+Sunday, Closed
+3.1542071, 101.6987835
+MON 08:00 AM - 09:00 PM
+TUE 08:00 AM - 09:00 PM
+WED 08:00 AM - 09:00 PM
+THU 08:00 AM - 09:00 PM
+FRI 08:00 AM - 09:00 PM
+SAT 08:00 AM - 09:00 PM
+
+Subway Aeon AU2
+https://www.waze.com/en/live-map/directions/subway-aeon-au2-aeon-au2-shopping-center-kuala-lumpur?place=w.66715680.666829118.27413005
+Aeon AU2 Shopping Center, 6, Jln 37/36 Taman Setiawangsa, Lot G49, Taman Keramat, Kuala Lumpur, 54200
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.1774938, 101.7399136
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Aeon Big Subang
+https://www.waze.com/en/live-map/directions/subway-aeon-big-f1-23-aeon-big,-level-1-no.3-subang-jaya?place=w.66584607.665780532.27413993
+F1-23 AEON BIG, Level 1 No.3 Jalan SS 16/1,Subang Jaya, Selangor 47500
+Monday - Sunday, 9:00 AM - 10:00 PM
+3.0825798, 101.5880157
+MON 09:00 AM - 10:00 PM
+TUE 09:00 AM - 10:00 PM
+WED 09:00 AM - 10:00 PM
+THU 09:00 AM - 10:00 PM
+FRI 09:00 AM - 10:00 PM
+SAT 09:00 AM - 10:00 PM
+SUN 09:00 AM - 10:00 PM
+
+Subway University Malaya
+https://www.waze.com/en/live-map/directions/subway-university-of-malaya-university-of-malaya-faculty-of-dentistry-petaling-jaya?place=w.66650143.666173751.27402188
+Faculty of Dentistry, Level 1, Block B, University of Malaya, Kuala Lumpur, 50603
+Monday - Friday, 6:30 AM – 10:00PM
+Saturday & Sunday, 8:00 AM – 3:00PM
+3.1219268, 101.6569942
+MON 06:30 AM - 10:00 PM
+TUE 06:30 AM - 10:00 PM
+WED 06:30 AM - 10:00 PM
+THU 06:30 AM - 10:00 PM
+FRI 06:30 AM - 10:00 PM
+SAT 08:00 AM - 03:00 PM
+SUN 08:00 AM - 03:00 PM
+
+Subway Jade Hills
+https://www.waze.com/en/live-map/directions/my/selangor/kajang/subway-jade-hill?place=ChIJuRzJknvLzTERiX5pZXHT0gw
+No 40-G, Jalan Jade Hills Utama 1/2, Commerce Village, Jade Hills, 43000 Kajang, Selangor.
+2.9941139, 101.758669
+
+Subway Wangsa Walk
+https://www.waze.com/en/live-map/directions/subway-wangsa-walk-mall-g-52,-wangsa-walk-mall-kuala-lumpur?place=w.66650144.666763584.27401138
+Wangsa Ave, Bandar Wangsa Maju, #9 Jalan Perdana 1, G-52, Wangsa Walk Mall, Kuala Lumpur, 53300
+Monday - Sunday, 9:30 AM - 9:30 PM
+3.1405862, 101.6890991
+MON 09:30 AM - 09:30 PM
+TUE 09:30 AM - 09:30 PM
+WED 09:30 AM - 09:30 PM
+THU 09:30 AM - 09:30 PM
+FRI 09:30 AM - 09:30 PM
+SAT 09:30 AM - 09:30 PM
+SUN 09:30 AM - 09:30 PM
+
+Subway TTDI
+https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-@-pinggir-zaaba-taman-tun?place=ChIJuRYqITBJzDER76oB2espXlU
+Lvl1, Petronas Svs Station TTDI,Lot29395 & 29396, Pinggir Zaaba, Taman Tun Dr Ismail, Kuala Lumpur, 60000
+Monday - Sunday, 8:30 AM - 9:00 PM
+3.146165, 101.6254046
+MON 08:30 AM - 09:00 PM
+TUE 08:30 AM - 09:00 PM
+WED 08:30 AM - 09:00 PM
+THU 08:30 AM - 09:00 PM
+FRI 08:30 AM - 09:00 PM
+SAT 08:30 AM - 09:00 PM
+SUN 08:30 AM - 09:00 PM
+
+Subway Plaza Shah Alam
+https://www.waze.com/en/live-map/directions/subway-@plaza-shah-alam-lot-g17,-plaza-shah-alam?place=w.66519071.665321780.27398400
+Lot No. G 17, Ground Floor, Plaza Shah Alam, Sekysen 9, Shah Alam, 40100
+Monday - Sunday, 9:30 AM – 09:30PM
+3.0847335, 101.5234197
+MON 09:30 AM - 09:30 PM
+TUE 09:30 AM - 09:30 PM
+WED 09:30 AM - 09:30 PM
+THU 09:30 AM - 09:30 PM
+FRI 09:30 AM - 09:30 PM
+SAT 09:30 AM - 09:30 PM
+SUN 09:30 AM - 09:30 PM
+
+Subway Taipan
+https://www.waze.com/en/live-map/directions/subway-taipan-jalan-usj-101j-7-subang-jaya?place=w.66584606.665780529.2845552
+7A, Jalan USJ 10/1j, Taipan Business Centre, 47620 Subang Jaya, Selangor
+Monday - Sunday, 8:00 AM - 8:00 PM
+3.0479318, 101.5860154
+MON 08:00 AM - 08:00 PM
+TUE 08:00 AM - 08:00 PM
+WED 08:00 AM - 08:00 PM
+THU 08:00 AM - 08:00 PM
+FRI 08:00 AM - 08:00 PM
+SAT 08:00 AM - 08:00 PM
+SUN 08:00 AM - 08:00 PM
+
+Subway Menara Aras Jaya
+https://www.waze.com/en/live-map/directions/subway-cimb-cimb-11-jalan-raja-laut,-lower-ground-floor-kuala-lumpur?place=w.66650144.666501436.27395039
+LG Floor, Menara Bumiputra Commerce, No 11, Jalan Raja Laut, 50350 Kuala Lumpur
+Monday - Friday, 8:00 AM – 9:00PM
+Saturday & Sunday, 10:00 AM – 7:00PM
+3.1551486, 101.6952541
+MON 08:00 AM - 09:00 PM
+TUE 08:00 AM - 09:00 PM
+WED 08:00 AM - 09:00 PM
+THU 08:00 AM - 09:00 PM
+FRI 08:00 AM - 09:00 PM
+SAT 10:00 AM - 07:00 PM
+SUN 10:00 AM - 07:00 PM
+
+Subway Petronas Ampang Point
+https://waze.com/ul?ll=3.160388,101.756010
+Petronas Gas Station/C-Store, Lot 36904 TT27423, Jalan Air Kolam Lama, Ampang, 68000
+Monday - Sunday, 8:30 AM - 9:00 PM
+3.149099, 101.7624521
+MON 08:30 AM - 09:00 PM
+TUE 08:30 AM - 09:00 PM
+WED 08:30 AM - 09:00 PM
+THU 08:30 AM - 09:00 PM
+FRI 08:30 AM - 09:00 PM
+SAT 08:30 AM - 09:00 PM
+SUN 08:30 AM - 09:00 PM
+
+Subway Tesco Kepong
+https://www.waze.com/en/live-map/directions/subway-lotuss-kepong-village-lot-no.-14,-1st-floor,-lotuss-kepong-village-mall-kuala-lumpur?place=w.66584608.666042687.27399057
+Tesco Kepong Village Mall, Lot No. 14, 1st Floor, No. 3 Jalan 7A/62A Bandar Manjalara, Kuala Lumpur, 52200
+Monday - Sunday, 10:15 AM - 9:30 PM
+3.1950817, 101.6329131
+MON 10:15 AM - 09:30 PM
+TUE 10:15 AM - 09:30 PM
+WED 10:15 AM - 09:30 PM
+THU 10:15 AM - 09:30 PM
+FRI 10:15 AM - 09:30 PM
+SAT 10:15 AM - 09:30 PM
+SUN 10:15 AM - 09:30 PM
+
+Subway Jalan Ipoh
+https://www.waze.com/en/live-map/directions/subway-rivercity-village-468-1(1),-ground-floor,-block-f-rivercity-village-kuala-lumpur?place=w.66650144.666370366.16193787
+No. 447, Jalan Ipoh, Batu 3, Taman Million, 51200 Kuala Lumpur
+Monday - Sunday, 8:00 AM - 10:00 PM
+3.1835055, 101.6819301
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Selayang Mall
+https://www.waze.com/en/live-map/directions/subway-selayang-mall-5a,-ground-floor,-selayang-mall-batu-caves?place=w.66584608.666108228.27398140
+Selayang Mall, GSW .5A, Ground Floor, Batu Caves, 68100
+Monday - Sunday, 9:00 AM - 10:00 PM
+3.2371848, 101.6444003
+MON 09:00 AM - 10:00 PM
+TUE 09:00 AM - 10:00 PM
+WED 09:00 AM - 10:00 PM
+THU 09:00 AM - 10:00 PM
+FRI 09:00 AM - 10:00 PM
+SAT 09:00 AM - 10:00 PM
+SUN 09:00 AM - 10:00 PM
+
+Subway AEON BIG Puchong
+https://ul.waze.com/ul?preview_venue_id=66584606.665911595.26934483&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location
+AEON BIG Shopping Center, Lot No G04 Ground Floor, Lot 4029 Persiaran Selangor, Puchong Utama, 47100
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.0628552, 101.520509
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Seksyen 13
+https://waze.com/ul?ll=3.089032,101.546357
+Tadisma Business Park, Seksyen 13, 40100 Shah Alam, Selangor
+Monday - Sunday (9:30AM - 10:30PM)
+3.089032, 101.546357
+MON 09:30 AM - 10:30 PM
+TUE 09:30 AM - 10:30 PM
+WED 09:30 AM - 10:30 PM
+THU 09:30 AM - 10:30 PM
+FRI 09:30 AM - 10:30 PM
+SAT 09:30 AM - 10:30 PM
+SUN 09:30 AM - 10:30 PM
+
+Subway Axis Atrium
+https://www.waze.com/en/live-map/directions/subway-axis-atrium-axis-atrium,-lot-no.-g-3-ground-floor-kuala-lumpur?place=w.66650143.666829114.27401140
+Axis Atrium, Lot No. G-3 Ground Floor, Jalan Cempaka, Taman Cempaka Ampang, 68000
+Monday - Sunday, 8:00 AM - 9:00 PM
+3.136544, 101.7472814
+MON 08:00 AM - 09:00 PM
+TUE 08:00 AM - 09:00 PM
+WED 08:00 AM - 09:00 PM
+THU 08:00 AM - 09:00 PM
+FRI 08:00 AM - 09:00 PM
+SAT 08:00 AM - 09:00 PM
+SUN 08:00 AM - 09:00 PM
+
+Subway Taman Prima Saujana
+https://www.waze.com/en/live-map/directions/my/selangor/kajang/subway-prima-saujana?place=ChIJ5T1_lhrNzTERznG7echZSEc
+G-2A-GB, Jalan Prima Saujana 2/D, Taman Prima Saujana, 43000 Kajang, Selangor
+Monday - Sunday, 8:00 AM - 10:00 PM
+3.0087878, 101.8045032
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Cova Square
+https://www.waze.com/en/live-map/directions/subway-cova-square-jalan-teknologi-16-petaling-jaya?place=w.66584607.665649467.17215766
+G16, Cova Square Jalan Teknologi Pju5 Kota Damansara 47810 Petaling Jaya Selangor
+Monday - Sunday, 8:00 AM - 9:00 PM
+3.1474439, 101.5754342
+MON 08:00 AM - 09:00 PM
+TUE 08:00 AM - 09:00 PM
+WED 08:00 AM - 09:00 PM
+THU 08:00 AM - 09:00 PM
+FRI 08:00 AM - 09:00 PM
+SAT 08:00 AM - 09:00 PM
+SUN 08:00 AM - 09:00 PM
+
+Subway Giant Bandar Kinrara - Puchong
+https://www.waze.com/en/live-map/directions/my/selangor/puchong/subway-@-giant-hypermarket-bandar-kinrara?place=ChIJQWetUDxLzDERNXcKhA-KR-A
+Giant Hypermkt Bandar Kinrara, Lot No:G8, Lot 449, Jalan BK 5A/1, Bandar Kinrara, Puchong, 47100
+Monday - Sunday, 9:30 AM - 10:00 PM
+3.050157, 101.6463211
+MON 09:30 AM - 10:00 PM
+TUE 09:30 AM - 10:00 PM
+WED 09:30 AM - 10:00 PM
+THU 09:30 AM - 10:00 PM
+FRI 09:30 AM - 10:00 PM
+SAT 09:30 AM - 10:00 PM
+SUN 09:30 AM - 10:00 PM
+
+Subway One City
+https://www.waze.com/en/live-map/directions/my/selangor/subang-jaya/subway?place=ChIJSx9gBCWzzTER0Qhz_gj_2QQ
+One City@Skypark, C-GF-01 Ground Floor, Jalan USJ 25/1, Subang Jaya, 47650
+Monday - Sunday, 9:00 AM - 7:45 PM
+3.0221586, 101.580368
+MON 09:00 AM - 07:45 PM
+TUE 09:00 AM - 07:45 PM
+WED 09:00 AM - 07:45 PM
+THU 09:00 AM - 07:45 PM
+FRI 09:00 AM - 07:45 PM
+SAT 09:00 AM - 07:45 PM
+SUN 09:00 AM - 07:45 PM
+
+Subway Southgate
+https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-@-southgate-commercial-center?place=ChIJd4K2SBw2zDERvbRfvxkCiEw
+Pusat Komersial Southgate, No. 2, Jalan Dua, Unit E-1-6, Off Jalan Chan Sow Lin, Lvl 1, Kuala Lumpur, 55200
+Monday - Sunday, 8:00 AM - 9:00 PM
+3.121953, 101.7134458
+MON 08:00 AM - 09:00 PM
+TUE 08:00 AM - 09:00 PM
+WED 08:00 AM - 09:00 PM
+THU 08:00 AM - 09:00 PM
+FRI 08:00 AM - 09:00 PM
+SAT 08:00 AM - 09:00 PM
+SUN 08:00 AM - 09:00 PM
+
+Subway Brem Mall
+https://www.waze.com/en/live-map/directions/subway-brem-mall-g-06,-brem-mall,-jalan-kepong,-kepong-kuala-lumpur?place=w.66650144.666304832.27401872
+G-06, Brem Mall, Jalan Kepong, Kepong, Kuala Lumpur, 52000
+Monday - Sunday, 8:00 AM - 10:00 PM
+3.2044953, 101.6674289
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Festival City
+https://www.waze.com/en/live-map/directions/my/federal-territory-of-kuala-lumpur/kuala-lumpur/subway-@-setapak-central-mall?place=ChIJ6fjTnRE4zDEReW77Yg4uqrY
+Setapak Central Mall, Lot S-23, No. 67 Jalan Taman Ibu Kota, Taman Danau Kota, Setapak, Kuala Lumpur, 53200
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.205435, 101.7199889
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Citta Mall
+https://www.waze.com/en/live-map/directions/subway-citta-mall-unit-f-09,-citta-mall,-ara-damansara,-ara-damansara-petaling-jaya?place=w.66584607.665714999.27401586
+Lot F-09, 1st Floor, Citta Mall, No.1 Jln PJU 1A/48, PJU 1A, Ara Damansara, Petaling Jaya, 47301
+Monday - Sunday, 9:30 AM - 8:00 PM
+3.1121867, 101.5790712
+MON 09:30 AM - 08:00 PM
+TUE 09:30 AM - 08:00 PM
+WED 09:30 AM - 08:00 PM
+THU 09:30 AM - 08:00 PM
+FRI 09:30 AM - 08:00 PM
+SAT 09:30 AM - 08:00 PM
+SUN 09:30 AM - 08:00 PM
+
+Subway Aeon Big Wangsamaju
+https://www.waze.com/en/live-map/directions/subway-aeon-big-wangsa-maju-f1-09,-first-floor,-aeon-big-wangsa-maju,-wangsa-maju-kuala-lumpur?place=w.66650144.666763584.27401144
+Aeon Big Wangsa Maju, F1-09, First Floor, Jalan 8/27A, Section 5, Wangsa Maju, 53300 Kuala Lumpur.
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.1970119, 101.7454081
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Endah Parade
+https://www.waze.com/en/live-map/directions/subway-endah-parade-endah-parade-shopping-complex,-kuala-lumpur?place=w.66650143.666501426.27401582
+Endah Parade Shopping Complex, Lot G-013A, Ground Floor, Jalan 1/149E, Kuala Lumpur, 57000
+Monday - Sunday, 8:00 AM - 10:00 PM
+3.063303, 101.6951981
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway NKVE
+https://www.waze.com/en/live-map/directions/my/selangor/sungai-buloh/subway?place=ChIJ4VodophOzDERaGq4H8ZxsAw
+Lot 15385KM 15.3, (NKVE), Petronas New Klang Expressway, Damansara Bound, Sungai Buloh, 47000
+Monday - Sunday, 10:00 AM - 9:00 PM
+3.1192383, 101.5928717
+MON 10:00 AM - 09:00 PM
+TUE 10:00 AM - 09:00 PM
+WED 10:00 AM - 09:00 PM
+THU 10:00 AM - 09:00 PM
+FRI 10:00 AM - 09:00 PM
+SAT 10:00 AM - 09:00 PM
+SUN 10:00 AM - 09:00 PM
+
+Subway Star Avenue
+https://waze.com/ul?ll=3.154583,101.553631
+Star Avenue Lifestyle Mall, Lot No: L1-13 & L1-K2, No. 3, Jalan Zuhal U5/179, Pusat Komersial Arena Bintang,Seksyen U5, Shah Alam, 40150
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.1545825, 101.5536314
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Metro Point
+https://www.waze.com/en/live-map/directions/subway-metro-point-complex-metro-point-complex,-lot-g03-ground-floor-kajang?place=w.66715678.667091243.27400766
+Metro Point Complex, Lot G03 Ground Floor, Jalan Jelok 8, Kajang, 43000
+Monday - Sunday, 9:30 AM - 9:30 PM
+2.9916367, 101.793722
+MON 09:30 AM - 09:30 PM
+TUE 09:30 AM - 09:30 PM
+WED 09:30 AM - 09:30 PM
+THU 09:30 AM - 09:30 PM
+FRI 09:30 AM - 09:30 PM
+SAT 09:30 AM - 09:30 PM
+SUN 09:30 AM - 09:30 PM
+
+Subway Mydin USJ
+https://www.waze.com/en/live-map/directions/my/selangor/pj/subway-(mydin-subang-jaya-hypermarket)?place=ChIJA4PoRR5NzDERe-Q_fZOYgKM
+G-42 & G-43, Ground Floor,Persiaran Subang Permai, USJ 1, 47500 Subang Jaya, Selangor.
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.0576204, 101.5933612
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway TBS
+https://www.waze.com/en/live-map/directions/my/federal-territory-of-kuala-lumpur/kuala-lumpur/subway-@-tbs?place=ChIJAVz8DF81zDERXWs-EKFOIF8
+Unit L4-29, 4th Floor, Terminal Bersepadu Selatan, Bandar Tasik Selatan, Kuala Lumpur, 57100
+Monday - Sunday, 10:00 AM – 8:00PM
+Friday, 9:00 AM – 9:00PM
+3.0780526, 101.7110798
+MON 10:00 AM - 08:00 PM
+TUE 10:00 AM - 08:00 PM
+WED 10:00 AM - 08:00 PM
+THU 10:00 AM - 08:00 PM
+FRI 09:00 AM - 09:00 PM
+SAT 10:00 AM - 08:00 PM
+SUN 10:00 AM - 08:00 PM
+
+Subway KWC (Kenanga)
+https://www.waze.com/en/live-map/directions/subway-kwc-fashion-mall-lot-g-08-kwc-fashion-mall-kuala-lumpur?place=w.66650143.666566970.27400904
+KWC Fashion Mall, No.2, Jalan Gelugor, Lot G-08, Kuala Lumpur, 55200
+Monday - Sunday, 10:00 AM - 8:00 PM
+3.1367328, 101.7078259
+MON 10:00 AM - 08:00 PM
+TUE 10:00 AM - 08:00 PM
+WED 10:00 AM - 08:00 PM
+THU 10:00 AM - 08:00 PM
+FRI 10:00 AM - 08:00 PM
+SAT 10:00 AM - 08:00 PM
+SUN 10:00 AM - 08:00 PM
+
+Subway Selayang 18
+https://www.waze.com/en/live-map/directions/subway-selayang-18-persiaran-3-batu-caves?place=w.66650145.666173766.21949236
+Lot 3.06, 3rd Floor vendor letter SH-15-G,Grd Floor,Selayang, Kuala Lumpur, 68000 , Batu Caves, 68100
+Monday - Sunday, 8:00 AM - 9:00 PM
+3.2378844, 101.6840385
+MON 08:00 AM - 09:00 PM
+TUE 08:00 AM - 09:00 PM
+WED 08:00 AM - 09:00 PM
+THU 08:00 AM - 09:00 PM
+FRI 08:00 AM - 09:00 PM
+SAT 08:00 AM - 09:00 PM
+SUN 08:00 AM - 09:00 PM
+
+Subway Sime Darby Parkcity
+https://www.waze.com/en/live-map/directions/subway-desa-park-city-sime-darby-parkcity,-cp-retail-2-kuala-lumpur?place=w.66584608.666108223.14350474
+Sime Darby Parkcity, CP Retail 2, No. 2 Jalan Intisari, Perdana Desa Parkcity, Kuala Lumpur, 52200
+Monday - Sunday, 8:00 AM - 9:30 PM
+3.1890642, 101.6378278
+MON 08:00 AM - 09:30 PM
+TUE 08:00 AM - 09:30 PM
+WED 08:00 AM - 09:30 PM
+THU 08:00 AM - 09:30 PM
+FRI 08:00 AM - 09:30 PM
+SAT 08:00 AM - 09:30 PM
+SUN 08:00 AM - 09:30 PM
+
+Subway TM
+https://www.waze.com/en/live-map/directions/my/federal-territory-of-kuala-lumpur/kuala-lumpur/subway-@-menara-tm?place=ChIJ97qHTY1JzDEREeRr6wtfSts
+Lower Ground 1 (LG1), Menara TM, Jalan Pantai Baharu, 50672 Kuala Lumpur
+Monday, 10:00 AM – 8:00PM
+Tuesday - Thursday, 8:00 AM – 8:00PM
+Friday, 8:20 AM – 8:00PM
+Saturday, 9:00 AM – 9:00PM
+Sunday, Closed
+3.1161294, 101.665866
+MON 10:00 AM - 08:00 PM
+TUE 08:00 AM - 08:00 PM
+WED 08:00 AM - 08:00 PM
+THU 08:00 AM - 08:00 PM
+FRI 08:20 AM - 08:00 PM
+SAT 09:00 AM - 09:00 PM
+
+Subway GPS
+https://waze.com/ul?ll=3.005880,101.725544
+Petronas Green Plus Station, Plus Hwy & Sungai Besi Hwy, Lot 896, Ground Floor, QSR 3, Mukim Kajang, Hulu Langat, 43300
+Monday - Sunday, 8:00 AM - 11:00 PM
+3.0058801, 101.7255439
+MON 08:00 AM - 11:00 PM
+TUE 08:00 AM - 11:00 PM
+WED 08:00 AM - 11:00 PM
+THU 08:00 AM - 11:00 PM
+FRI 08:00 AM - 11:00 PM
+SAT 08:00 AM - 11:00 PM
+SUN 08:00 AM - 11:00 PM
+
+Subway Sunway Lagoon
+https://www.waze.com/en/live-map/directions/subway-sunway-lagoon-sunway-lagoon-theme-park,-fb-z-001,-3-petaling-jaya?place=w.66584607.665911603.27401305
+Sunway Lagoon Theme Park, FB-Z-001, 3, Jalan PJS 11/11, Bandar Sunway, Petaling Jaya, 46150
+Monday - Sunday (10:00AM - 6:00PM)
+Tuesday : Close
+3.0693932, 101.6067533
+MON 10:00 AM - 06:00 PM
+WED 10:00 AM - 06:00 PM
+THU 10:00 AM - 06:00 PM
+FRI 10:00 AM - 06:00 PM
+SAT 10:00 AM - 06:00 PM
+SUN 10:00 AM - 06:00 PM
+
+Subway Sri Gombak
+https://www.waze.com/en/live-map/directions/my/selangor/batu-caves/subway?place=ChIJi5BmZXtHzDER519jKGFtoFk
+No. G100, Jalan Prima SG3/2, Taman Prima, Sri Gombak, Kuala Lumpur, 68100
+Monday - Sunday, 8:00 AM - 10:30 PM
+3.2376664, 101.700343
+MON 08:00 AM - 10:30 PM
+TUE 08:00 AM - 10:30 PM
+WED 08:00 AM - 10:30 PM
+THU 08:00 AM - 10:30 PM
+FRI 08:00 AM - 10:30 PM
+SAT 08:00 AM - 10:30 PM
+SUN 08:00 AM - 10:30 PM
+
+Subway Trillium, Lake Fields
+https://waze.com/ul?ll=3.059890,101.710432
+No.66, Jalan Tasik Utama 7, Medan Niaga Tasik Damai, (Trillium) Lake Field, Sg Besi, Kuala Lumpur, 57000
+Monday - Sunday, 8:30 AM - 10:00 PM
+3.057444, 101.71787
+MON 08:30 AM - 10:00 PM
+TUE 08:30 AM - 10:00 PM
+WED 08:30 AM - 10:00 PM
+THU 08:30 AM - 10:00 PM
+FRI 08:30 AM - 10:00 PM
+SAT 08:30 AM - 10:00 PM
+SUN 08:30 AM - 10:00 PM
+
+Subway Ikon Connaught
+https://www.waze.com/en/live-map/directions/subway-ikon-connaught-lot-g-02a-ikon-connaught-kuala-lumpur?place=w.66650143.666698036.27398136
+Ikon Connaught, G-02A & Alfresco GA-02A, Ground Floor, Jalan Cerdas, Taman Connaught, Kuala Lumpur, 56100
+Monday - Sunday, 10:00 AM - 8:00 PM
+3.0814646, 101.7314185
+MON 10:00 AM - 08:00 PM
+TUE 10:00 AM - 08:00 PM
+WED 10:00 AM - 08:00 PM
+THU 10:00 AM - 08:00 PM
+FRI 10:00 AM - 08:00 PM
+SAT 10:00 AM - 08:00 PM
+SUN 10:00 AM - 08:00 PM
+
+Subway Atria
+https://www.waze.com/en/live-map/directions/subway-atria-shoppinggallery-lot-c11-atria-shopping-gallery-petaling-jaya?place=w.66584607.665977145.27398112
+Atria Shopping Gallery, Lot C11, Jalan SS 22/23, Damansara Jaya, Petaling Jaya, 47400
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.1270963, 101.6165176
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway SS3
+https://www.waze.com/en/live-map/directions/my/selangor/pj/subway-ss3?place=ChIJuTzSm3VMzDERLk_bVVw9iTg
+Jalan SS3/39, Ground Floor, Unit 16, Bangunan PJ21, Petaling Jaya, 47300
+Monday - Saturday, 8:00 AM – 10:00PM
+Sunday, 8:00 AM – 9:00PM
+3.0912512, 101.6149133
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 09:00 PM
+
+Subway Ativo Plaza
+https://www.waze.com/en/live-map/directions/subway-ativo-plaza-jalan-pju-91-kuala-lumpur?place=w.66584608.665977152.5632979
+Ativo Plaza, #1 Jalan PJU 9/1, Damansara Ave, B-G-2, Block B, Bandar Sri Damansara, Kuala Lumpur, 52200
+Monday - Saturday, 8:30 AM – 10:00PM
+Sunday, 8:30 AM – 9:30PM
+3.1967245, 101.6162782
+MON 08:30 AM - 10:00 PM
+TUE 08:30 AM - 10:00 PM
+WED 08:30 AM - 10:00 PM
+THU 08:30 AM - 10:00 PM
+FRI 08:30 AM - 10:00 PM
+SAT 08:30 AM - 10:00 PM
+SUN 08:30 AM - 09:30 PM
+
+Subway Quill City (LG)
+https://www.waze.com/en/live-map/directions/my/federal-territory-of-kuala-lumpur/kuala-lumpur/subway-@-quill-city-mall?place=ChIJl7-7OS9IzDERa282ngJCTKs
+Quill City Mall, LG-02, No. 1018, Jalan Sultan Ismail, Kuala Lumpur , 50250
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.1598664, 101.7000562
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Sunway U
+https://www.waze.com/en/live-map/directions/subway-sunway-university-no.-27-jalan-pjs-119,-bandar-sunway,-46150-subang-jaya?place=w.66584607.665846067.26717443
+No. 27 Jalan PJS 11/9, Bandar Sunway, Petaling Jaya, 46150
+Monday - Sunday, 9:00 AM - 8:00 PM
+3.0678184, 101.6031071
+MON 09:00 AM - 08:00 PM
+TUE 09:00 AM - 08:00 PM
+WED 09:00 AM - 08:00 PM
+THU 09:00 AM - 08:00 PM
+FRI 09:00 AM - 08:00 PM
+SAT 09:00 AM - 08:00 PM
+SUN 09:00 AM - 08:00 PM
+
+Subway Kota Damansara
+https://www.waze.com/en/live-map/directions/my/selangor/pj/subway-@-dataran-sunway?place=ChIJjaT4bSBPzDERdko25w89Fq8
+15-1, Jalan PJU 5/6, Dataran Sunway, Kota Damansara, Petaling Jaya, 47810
+Monday - Sunday, 8:00 AM - 8:00 PM
+3.1532059, 101.5949069
+MON 08:00 AM - 08:00 PM
+TUE 08:00 AM - 08:00 PM
+WED 08:00 AM - 08:00 PM
+THU 08:00 AM - 08:00 PM
+FRI 08:00 AM - 08:00 PM
+SAT 08:00 AM - 08:00 PM
+SUN 08:00 AM - 08:00 PM
+
+Subway OUG
+https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-oug-parklane?place=ChIJW9BS3nlLzDERdemjQm9QkBE
+A1-07 Jalan 1/52, Taman OUG Parklane Off Jalan Klang Lama 58200 Kuala Lumpur
+Monday - Sunday, 9:00 AM - 10:00 PM
+3.0866541, 101.6732758
+MON 09:00 AM - 10:00 PM
+TUE 09:00 AM - 10:00 PM
+WED 09:00 AM - 10:00 PM
+THU 09:00 AM - 10:00 PM
+FRI 09:00 AM - 10:00 PM
+SAT 09:00 AM - 10:00 PM
+SUN 09:00 AM - 10:00 PM
+
+Subway Petronas Kesas
+https://www.waze.com/en/live-map/directions/my/selangor/subang-jaya/subway-petronas-kesas-highway-arah-barat-km34.-5?place=ChIJ9bLY5B5NzDERCu0iuXkBptY
+Petronas Station, Lebuhraya Kesas Arah Barat KM34.5, Lebuhraya Kesas, 40000 Shah Alam, Selangor
+Monday - Saturday, 7:30 AM – 10:00PM
+Sunday, 8:00 AM – 10:00PM
+3.0391433, 101.5568229
+MON 07:30 AM - 10:00 PM
+TUE 07:30 AM - 10:00 PM
+WED 07:30 AM - 10:00 PM
+THU 07:30 AM - 10:00 PM
+FRI 07:30 AM - 10:00 PM
+SAT 07:30 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Sri Petaling
+https://www.waze.com/en/live-map/directions/subway-sri-petaling-jalan-radin-bagus-53-kuala-lumpur?place=w.66650143.666435891.12280737
+No. 53, Jalan Radin Bagus, 57000 Sri Petaling, Kuala Lumpur
+Monday - Sunday, 8:00 AM - 10:00 PM
+3.0703916, 101.6950263
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Puncak Jalil
+https://www.waze.com/en/live-map/directions/my/selangor/seri-kembangan/subway?place=ChIJzXasDDu1zTERjmQ2GXJQHxk
+116 Jalan PUJ 3/2,Taman Puncak Jalil, Bandar Putra Permai,Seri Kembangan, 63300
+Monday - Sunday, 9:00 AM - 10:00 PM
+3.0202228, 101.6750218
+MON 09:00 AM - 10:00 PM
+TUE 09:00 AM - 10:00 PM
+WED 09:00 AM - 10:00 PM
+THU 09:00 AM - 10:00 PM
+FRI 09:00 AM - 10:00 PM
+SAT 09:00 AM - 10:00 PM
+SUN 09:00 AM - 10:00 PM
+
+Subway Aeon Alpha Angle
+https://www.waze.com/en/live-map/directions/my/federal-territory-of-kuala-lumpur/kuala-lumpur/subway-@-aeon-alpha-angle?place=ChIJKfuHkjw4zDERcBLnlBYSXNw
+AEON Alpha Angle Shopping Ctr, Lot F37A, Jalan R1, Seksyen 1, Bandar Baru Wangsa Maju, Kuala Lumpur, 53300
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.2021198, 101.7341702
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway My Town
+https://www.waze.com/en/live-map/directions/subway-mytown-shopping-centre-b1-07-and-b1-08,-mytown-shopping-centre,-55100-kuala-lumpur?place=w.66650143.666632505.27397019
+Lot B1-07 & B1-08, Level Basement 1, MyTOWN Shopping Centre, Jalan Cochrane, Seksyen 90, Kuala Lumpur, 55100
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.1499222, 101.6944619
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Utropolis
+https://www.waze.com/en/live-map/directions/subway-utropolis-marketplace-g-b2a,-utropolis-marketplace-shah-alam?place=w.66584607.665583925.27402093
+G-B2a, Utropolis Marketplace, Jalan Kontracktor U1/14, Seksyen U1, 40150 Shah Alam, Selangor
+Monday - Sunday, 8:30 AM - 9:00 PM
+3.0901139, 101.5598641
+MON 08:30 AM - 09:00 PM
+TUE 08:30 AM - 09:00 PM
+WED 08:30 AM - 09:00 PM
+THU 08:30 AM - 09:00 PM
+FRI 08:30 AM - 09:00 PM
+SAT 08:30 AM - 09:00 PM
+SUN 08:30 AM - 09:00 PM
+
+Subway Great Eastern Mall
+https://www.waze.com/en/live-map/directions/subway-great-eastern-mall-great-eastern-mall,-lot-4c-lower-ground-floor-kuala-lumpur?place=w.66650144.666763580.27398397
+Great Eastern Mall, Lot 4C Lower Ground Floor, No 303 Jalan Ampang, Kuala Lumpur, 50450
+Monday - Friday, 8:30 AM – 8:30PM
+Saturday & Sunday, 9:30 AM – 8:30PM
+3.1600725, 101.7369013
+MON 08:30 AM - 08:30 PM
+TUE 08:30 AM - 08:30 PM
+WED 08:30 AM - 08:30 PM
+THU 08:30 AM - 08:30 PM
+FRI 08:30 AM - 08:30 PM
+SAT 09:30 AM - 08:30 PM
+SUN 09:30 AM - 08:30 PM
+
+Subway NU Sentral
+https://www.waze.com/en/live-map/directions/subway-nu-sentral-l4.13,-level-four,-nu-sentral-kuala-lumpur?place=w.66650143.666435897.27398085
+L4.13, Level Four, NU Sentral, No. 201 Jalan Tun Sambanthan, Kuala Lumpur, 50470
+Monday - Sunday, 9:00 AM - 9:00 PM
+3.133294, 101.6871504
+MON 09:00 AM - 09:00 PM
+TUE 09:00 AM - 09:00 PM
+WED 09:00 AM - 09:00 PM
+THU 09:00 AM - 09:00 PM
+FRI 09:00 AM - 09:00 PM
+SAT 09:00 AM - 09:00 PM
+SUN 09:00 AM - 09:00 PM
+
+Subway IOI City Mall
+https://www.waze.com/en/live-map/directions/subway-ioi-city-mall-ioi-city-mall,-lebuh-irc,-ioi-resort-city,-62502-putrajaya?place=w.66650142.666566953.27400823
+IOI City Mall, Lebuh IRC, IOI Resort City, 62502 Putrajaya, Malaysia
+Monday - Sunday, 10:00 AM - 9:00 PM
+2.970663, 101.7136681
+MON 10:00 AM - 09:00 PM
+TUE 10:00 AM - 09:00 PM
+WED 10:00 AM - 09:00 PM
+THU 10:00 AM - 09:00 PM
+FRI 10:00 AM - 09:00 PM
+SAT 10:00 AM - 09:00 PM
+SUN 10:00 AM - 09:00 PM
+
+Subway Sunway Putra
+https://www.waze.com/en/live-map/directions/my/federal-territory-of-kuala-lumpur/kuala-lumpur/subway-@-sunway-putra-mall?place=ChIJZ9G0hjxIzDERadDFIQqD8Ck
+Lot 4-60 & 4-79A, Fourth Floor, Sunway Putra Mall, No. 100, Jalan Putra, 50350 Kuala Lumpur
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.1665524, 101.6924341
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Sunway Pinnacle
+https://www.waze.com/en/live-map/directions/my/selangor/pj/subway@sunway-pinnacle?place=ChIJQ3L-SYFMzDER_wOO4aHBkQs
+M-01, Mezzanine Floor, The Pinnacle, Persiaran Lagoon, Bandar Sunway, 46150 Petaling Jaya, Selangor
+Monday - Friday, 8:00 AM – 8:00PM
+Saturday, 9:00 AM – 6:00PM
+Sunday, Closed
+3.0701823, 101.6100486
+MON 08:00 AM - 08:00 PM
+TUE 08:00 AM - 08:00 PM
+WED 08:00 AM - 08:00 PM
+THU 08:00 AM - 08:00 PM
+FRI 08:00 AM - 08:00 PM
+SAT 09:00 AM - 06:00 PM
+
+Subway Melawati Mall
+https://www.waze.com/en/live-map/directions/subway-melawati-mall-lot-l3-22-melawati-mall,-ampang-kuala-lumpur?place=w.66650144.666829121.27398467
+L3-22, Third Floor, Melawati Mall, UP2-01, Melawati Mall, 355, Jalan Bandar Melawati, Pusat Bandar Melawati, 53100 Kuala Lumpur
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.212581, 101.7470841
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Sunway Medical
+https://waze.com/ul?ll=3.066085,101.608626
+Sunway Medical Centre, Ground Floor,No. 5, Jalan Lagoon Selatan, 47500 Selangor
+Monday - Sunday, 8:00 AM - 8:00 PM
+3.0662328, 101.6095404
+MON 08:00 AM - 08:00 PM
+TUE 08:00 AM - 08:00 PM
+WED 08:00 AM - 08:00 PM
+THU 08:00 AM - 08:00 PM
+FRI 08:00 AM - 08:00 PM
+SAT 08:00 AM - 08:00 PM
+SUN 08:00 AM - 08:00 PM
+
+Subway Taman Melati
+https://www.waze.com/en/live-map/directions/my/federal-territory-of-kuala-lumpur/kuala-lumpur/subway-taman-melati?place=ChIJO6zeoZQ5zDERd8uBXlgh8CE
+No. 71-G Jalan Melati Utama 4, Taman Melati Utama, 53100 Setapak, Kuala Lumpur
+Monday - Sunday, 7:30 AM - 10:00 PM
+3.222755, 101.731182
+MON 07:30 AM - 10:00 PM
+TUE 07:30 AM - 10:00 PM
+WED 07:30 AM - 10:00 PM
+THU 07:30 AM - 10:00 PM
+FRI 07:30 AM - 10:00 PM
+SAT 07:30 AM - 10:00 PM
+SUN 07:30 AM - 10:00 PM
+
+Subway Shell Melati
+https://www.waze.com/en/live-map/directions/subway-shell-melati-jalan-lingkaran-tengah-2,-pt5729,-shell-melati-kuala-lumpur?place=w.66650144.666632516.27398141
+PT 5729, Batu 6 1/2, Ulu Gombak, 68100 Gombak. Selangor
+Monday - Sunday, 8:30 AM - 6:00 PM
+3.0727807, 101.6583464
+MON 08:30 AM - 06:00 PM
+TUE 08:30 AM - 06:00 PM
+WED 08:30 AM - 06:00 PM
+THU 08:30 AM - 06:00 PM
+FRI 08:30 AM - 06:00 PM
+SAT 08:30 AM - 06:00 PM
+SUN 08:30 AM - 06:00 PM
+
+Subway Shell Karak
+https://www.waze.com/en/live-map/directions/subway-lebuhraya-karak-pt-5946,-lebuhraya-karak,-68100-gombak,-selangor-kuala-lumpur?place=w.66650144.666632516.27398042
+PT 5946, Lebuhraya Karak, 68100 Gombak, Selangor
+Monday - Sunday, 8:30 AM - 10:30 PM
+3.2411277, 101.7161557
+MON 08:30 AM - 10:30 PM
+TUE 08:30 AM - 10:30 PM
+WED 08:30 AM - 10:30 PM
+THU 08:30 AM - 10:30 PM
+FRI 08:30 AM - 10:30 PM
+SAT 08:30 AM - 10:30 PM
+SUN 08:30 AM - 10:30 PM
+
+Subway Bukit Jalil
+https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-axiata-arena-bukit-jalil?place=ChIJ_1r32pdKzDERwqb1Q3n6L9o
+Level 1 Axiata Arena, KL Sport City, Bukit Jalil, 57000, Kuala Lumpur
+Monday - Sunday, 9:00 AM - 10:00 PM
+3.0534968, 101.6924882
+MON 09:00 AM - 10:00 PM
+TUE 09:00 AM - 10:00 PM
+WED 09:00 AM - 10:00 PM
+THU 09:00 AM - 10:00 PM
+FRI 09:00 AM - 10:00 PM
+SAT 09:00 AM - 10:00 PM
+SUN 09:00 AM - 10:00 PM
+
+Subway Sentul Sky Awani
+https://www.waze.com/en/live-map/directions/subway-sky-awani-jalan-sentul-perdana-g-11-kuala-lumpur?place=w.66650144.666435905.27398084
+Ground Floor , Unit No. G-11, Residensi Awani, Sky Awani, No. 27 Jalan Sentul Perdana 51100, Kuala Lumpur
+Monday - Sunday, 8:00 AM - 10:00 PM
+3.2091741, 101.6913723
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Damansara Perdana
+https://www.waze.com/en/live-map/directions/my/selangor/pj/subway-@-damansara-perdana-or-metropolitan-sq?place=ChIJWz04PAdPzDERiU-tHTIPyiY
+D-S-G-01, Metropolitan Square, Jalan PJU 8/1, Damansara Perdana, Petaling Jaya, 47820, Selangor
+Monday - Friday, 8:00 AM – 10:00PM
+Saturday & Sunday, 8:00 AM – 9:30PM
+3.1658571, 101.6083995
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 09:30 PM
+SUN 08:00 AM - 09:30 PM
+
+Subway Pearl Point
+https://waze.com/ul?ll=3.083153,101.669445
+Lot No. 1.0.69 (Ground Floor), Pearl Point Shopping Mall, Batu 5, Jalan Klang Lama, 58000 Kuala Lumpur
+Monday - Sunday (9:00AM - 10:00PM)
+3.1499222, 101.6944619
+MON 09:00 AM - 10:00 PM
+TUE 09:00 AM - 10:00 PM
+WED 09:00 AM - 10:00 PM
+THU 09:00 AM - 10:00 PM
+FRI 09:00 AM - 10:00 PM
+SAT 09:00 AM - 10:00 PM
+SUN 09:00 AM - 10:00 PM
+
+Subway Gurney Mall (UTMKL)
+https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-utmkl?place=ChIJ7_y8Q5A3zDER6JGmn1Nfmqc
+Lot 1-03, Level 1, Residensi UTMKL, No 8 Jalan Maktab, 54000 Kuala Lumpur
+Tuesday – Sunday, 10:00 AM – 9:30PM
+Monday, 8:00 AM – 9:30PM
+3.1718095, 101.7220624
+TUE 10:00 AM - 09:30 PM
+WED 10:00 AM - 09:30 PM
+THU 10:00 AM - 09:30 PM
+FRI 10:00 AM - 09:30 PM
+SAT 10:00 AM - 09:30 PM
+SUN 10:00 AM - 09:30 PM
+MON 08:00 AM - 09:30 PM
+
+Subway KLTS
+https://www.waze.com/en/live-map/directions/my/federal-territory-of-kuala-lumpur/kuala-lumpur/subway-klts?place=ChIJKd965yNHzDERs76aJJNwaw4
+45-G, Plaza KLTS, Block C, Jalan Gombak, 53000 Kuala Lumpur
+Monday - Sunday, 9:00 AM - 9:30 PM
+3.2037477, 101.7033755
+MON 09:00 AM - 09:30 PM
+TUE 09:00 AM - 09:30 PM
+WED 09:00 AM - 09:30 PM
+THU 09:00 AM - 09:30 PM
+FRI 09:00 AM - 09:30 PM
+SAT 09:00 AM - 09:30 PM
+SUN 09:00 AM - 09:30 PM
+
+Subway Jaya One
+https://www.waze.com/en/live-map/directions/my/selangor/pj/subway-jaya-one?place=ChIJcQghqGVJzDERLSVTpukyla4
+100-P2.015, Level 2, Block J, The School Jaya One, No.72A Jalan Prof Diraja Ungku Aziz, 46200 Petaling Jaya, Selangor
+Monday - Sunday, 10:30 AM - 9:00 PM
+3.1173734, 101.635064
+MON 10:30 AM - 09:00 PM
+TUE 10:30 AM - 09:00 PM
+WED 10:30 AM - 09:00 PM
+THU 10:30 AM - 09:00 PM
+FRI 10:30 AM - 09:00 PM
+SAT 10:30 AM - 09:00 PM
+SUN 10:30 AM - 09:00 PM
+
+Subway Petronas Grand Saga 3
+https://waze.com/ul?ll=3.025706,101.771637
+Lot 432, Lebuhraya Grand Saga, (Kajang Bound) 43300, Kajang, Selangor
+3.0219582, 101.7725655
+
+Subway MSU
+https://www.waze.com/en/live-map/directions/subway-msu-lot-s0205,-management-and-science-university-(msu)-shah-alam?place=w.66584607.665518388.27402347
+Lot S0205 Management & Science University, Seksyen 13, 40100 Shah Alam, Selangor
+Monday - Sunday, 8:00 AM – 8:00PM
+3.0779178, 101.5529156
+MON 08:00 AM - 08:00 PM
+TUE 08:00 AM - 08:00 PM
+WED 08:00 AM - 08:00 PM
+THU 08:00 AM - 08:00 PM
+FRI 08:00 AM - 08:00 PM
+SAT 08:00 AM - 08:00 PM
+SUN 08:00 AM - 08:00 PM
+
+Subway Sungai Buloh
+https://www.waze.com/en/live-map/directions/my/selangor/sungai-buloh/subway?place=ChIJN48KfTJFzDERqzad5XvCtwo
+2390, Jalan 1A-1, Bdr Baru Sg Buloh, Seksyen U20, 40610 Shah Alam, Selangor
+Monday - Sunday, 8:00 AM - 10:00 PM
+3.2109117, 101.5648128
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Subang Parade
+https://www.waze.com/en/live-map/directions/my/selangor/subang-jaya/subway-subang-parade-mall?place=ChIJR-sOzp5NzDERyLXi0ZNbEGw
+LGC17, Lower Ground Floor, Subang Parade Shopping Centre, Jalan Kemajuan Subang, Ss 16, 47500 Subang Jaya, Selangor
+Monday - Sunday, 9:00 AM - 10:00 PM
+3.0814893, 101.5851028
+MON 09:00 AM - 10:00 PM
+TUE 09:00 AM - 10:00 PM
+WED 09:00 AM - 10:00 PM
+THU 09:00 AM - 10:00 PM
+FRI 09:00 AM - 10:00 PM
+SAT 09:00 AM - 10:00 PM
+SUN 09:00 AM - 10:00 PM
+
+Subway KL East Mall
+https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-kl-east-mall?place=ChIJ98w9Q285zDERzcGnUTqyW_U
+LG 37 , Lower Ground Floor, KL East Mall, 823 Jalan Lingkaran Tengah 2, KL Timur, 53100 Kuala Lumpur
+Sunday – Thursday, 10:00 AM – 8:00PM
+Friday & Saturday, 9:00 AM – 8:00PM
+3.2247781, 101.7304658
+SUN 10:00 AM - 08:00 PM
+MON 10:00 AM - 08:00 PM
+TUE 10:00 AM - 08:00 PM
+WED 10:00 AM - 08:00 PM
+THU 10:00 AM - 08:00 PM
+FRI 09:00 AM - 08:00 PM
+SAT 09:00 AM - 08:00 PM
+
+Subway Bandar Sri Permaisuri
+https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-@-bandar-sri-permaisuri?place=ChIJOdM1NoI1zDERNMFVeFKzCJk
+Lot R-G-07, Ground Floor Q Avenue, Kompleks Permaisuri Q, No.6,Jalan Sri Permaisuri, Bandar Sri Permaisuri, Cheras 56000 Kuala Lumpur
+Monday - Sunday, 10:00 AM - 9:00 PM
+3.1020444, 101.7118779
+MON 10:00 AM - 09:00 PM
+TUE 10:00 AM - 09:00 PM
+WED 10:00 AM - 09:00 PM
+THU 10:00 AM - 09:00 PM
+FRI 10:00 AM - 09:00 PM
+SAT 10:00 AM - 09:00 PM
+SUN 10:00 AM - 09:00 PM
+
+Subway Mahkota Cheras
+https://www.waze.com/en/live-map/directions/my/selangor/cheras/subway-mahkota-cheras?place=ChIJMyT9PzA1zDER7wCQsKhyL2s
+32G, Jalan Temenggung 1/9, Bandar Mahkota Cheras, 43200 Cheras, Selangor
+Monday - Sunday, 10:00 AM - 11:00 PM
+3.0509156, 101.7893132
+MON 10:00 AM - 11:00 PM
+TUE 10:00 AM - 11:00 PM
+WED 10:00 AM - 11:00 PM
+THU 10:00 AM - 11:00 PM
+FRI 10:00 AM - 11:00 PM
+SAT 10:00 AM - 11:00 PM
+SUN 10:00 AM - 11:00 PM
+
+Subway KLCC
+https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-@-suria-klcc?place=ChIJ4w-9zNY3zDER1BwAcFWcn74
+Lot F208, Second Floor, Suria KLCC, Jalan Ampang, Golden, 50088 Kuala Lumpur
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.158154, 101.7120899
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Sri Serdang
+https://www.waze.com/en/live-map/directions/subway-sri-serdang-jalan-1834-11-seri-kembangan?place=w.66650142.666566957.26164017
+No 11 Jalan 18/34 Taman Sri Serdang, Seri Kembangan 43300 Selangor
+Monday - Sunday, 8:00 AM - 10:00 PM
+3.0086244, 101.7132879
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Kepong
+https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-kepong-metro-prima?place=ChIJcyKJRLdHzDERdeFs6es6yK4
+91, Jalan Metro Barat Perdana 1, Taman Usahawan Kepong, 52100 Kuala Lumpur
+Monday - Sunday, 8:00 AM - 8:30 PM
+3.2147435, 101.64014
+MON 08:00 AM - 08:30 PM
+TUE 08:00 AM - 08:30 PM
+WED 08:00 AM - 08:30 PM
+THU 08:00 AM - 08:30 PM
+FRI 08:00 AM - 08:30 PM
+SAT 08:00 AM - 08:30 PM
+SUN 08:00 AM - 08:30 PM
+
+Subway Damansara Damai
+https://www.waze.com/en/live-map/directions/my/selangor/pj/subway-damansara-damai-outlet?place=ChIJC3Ibl2hFzDERwxPbt2vGpi4
+G001, Seasons Square, Jalan Pju 10/3C, Damansara Damai, 47830 Petaling Jaya, Selangor
+Monday - Sunday, 7:30 AM - 10:00 PM
+3.19596, 101.59221
+MON 07:30 AM - 10:00 PM
+TUE 07:30 AM - 10:00 PM
+WED 07:30 AM - 10:00 PM
+THU 07:30 AM - 10:00 PM
+FRI 07:30 AM - 10:00 PM
+SAT 07:30 AM - 10:00 PM
+SUN 07:30 AM - 10:00 PM
+
+Subway Kidzania KL
+https://waze.com/ul?ll=3.158034,101.613800
+Kidzania Kuala Lumpur, Lot 11, Lower Ground Curve NX, No.18 Jalan PJU 7/5, 47810 Mutiara Damansara, Petaling Jaya Selangor
+Mon - Sun : 10am-6pm
+Tues : Close
+3.1580958, 101.6138072
+MON 10:00 AM - 06:00 PM
+WED 10:00 AM - 06:00 PM
+THU 10:00 AM - 06:00 PM
+FRI 10:00 AM - 06:00 PM
+SAT 10:00 AM - 06:00 PM
+SUN 10:00 AM - 06:00 PM
+
+Subway BTHO
+https://www.waze.com/en/live-map/directions/my/selangor/cheras/subway-bandar-tun-hussein-onn?place=ChIJKQ4pWYM1zDER1Z5A7QP-0XI
+No 5A, Ground Floor, Jalan Suarasa 8/3 Bandar Tun Hussien Onn, 43200 Cheras, Selangor Darul Ehsan
+Monday - Sunday, 7:30 AM - 10:00 PM
+3.0481567, 101.7600258
+MON 07:30 AM - 10:00 PM
+TUE 07:30 AM - 10:00 PM
+WED 07:30 AM - 10:00 PM
+THU 07:30 AM - 10:00 PM
+FRI 07:30 AM - 10:00 PM
+SAT 07:30 AM - 10:00 PM
+SUN 07:30 AM - 10:00 PM
+
+Subway Thomson Hospital
+https://www.waze.com/en/live-map/directions/my/selangor/pj/subway-thomson-hospital-kota-damansara?place=ChIJA8VxjANPzDERHq2EmG3gs9Q
+GF-Unit 1109-3, 11 Jalan Teknologi PJU 5, 47810 Kota Damansara, Petaling Jaya, Selangor
+Monday - Friday, 8:00 AM – 9:00PM
+Saturday & Sunday, 9:00 AM – 7:00PM
+3.1535043, 101.5666523
+MON 08:00 AM - 09:00 PM
+TUE 08:00 AM - 09:00 PM
+WED 08:00 AM - 09:00 PM
+THU 08:00 AM - 09:00 PM
+FRI 08:00 AM - 09:00 PM
+SAT 09:00 AM - 07:00 PM
+SUN 09:00 AM - 07:00 PM
+
+Subway BHP Jalan Kuching
+https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-@-bhp-jalan-kuching?place=ChIJH9__naBJzDERIoGI17o-ttQ
+BHPetrol Jalan Kuching, Lot PT 4283 & Lot 6086 Jalan Kuching, 52100 Kuala Lumpur.
+Monday - Sunday, 7:30 AM - 10:00 PM
+3.18844, 101.6701582
+MON 07:30 AM - 10:00 PM
+TUE 07:30 AM - 10:00 PM
+WED 07:30 AM - 10:00 PM
+THU 07:30 AM - 10:00 PM
+FRI 07:30 AM - 10:00 PM
+SAT 07:30 AM - 10:00 PM
+SUN 07:30 AM - 10:00 PM
+
+Subway Hero Puchong
+https://www.waze.com/en/live-map/directions/my/selangor/puchong/subway-@-hero-market-bandar-puteri?place=ChIJVVVVVaK0zTERxDwfsn9pkkI
+Lot No G-13 , Hero Puchong, Lot 1, Jalan Puteri 1/1 , 43200 Puchong, Selangor.
+Monday - Sunday, 9:00 AM - 9:00 PM
+3.025863, 101.6181331
+MON 09:00 AM - 09:00 PM
+TUE 09:00 AM - 09:00 PM
+WED 09:00 AM - 09:00 PM
+THU 09:00 AM - 09:00 PM
+FRI 09:00 AM - 09:00 PM
+SAT 09:00 AM - 09:00 PM
+SUN 09:00 AM - 09:00 PM
+
+Subway Pavilion Bukit Jalil
+https://www.waze.com/en/live-map/directions/my/federal-territory-of-kuala-lumpur/kuala-lumpur/subway-@-pavilion-bukit-jalil?place=ChIJ5feNFj5LzDERnz6TuHwTHFo
+Lot 1.40.00, Persiaran Jalil Utama, Bukit Jalil, Kuala Lumpur
+Monday - Sunday, 9:30 AM - 10:00 PM
+3.048822, 101.6735075
+MON 09:30 AM - 10:00 PM
+TUE 09:30 AM - 10:00 PM
+WED 09:30 AM - 10:00 PM
+THU 09:30 AM - 10:00 PM
+FRI 09:30 AM - 10:00 PM
+SAT 09:30 AM - 10:00 PM
+SUN 09:30 AM - 10:00 PM
+
+Subway Petron Ukay Perdana
+https://www.waze.com/en/live-map/directions/my/selangor/ampang/subway-petron-ukay-perdana?place=ChIJo0u0S085zDERqPaK5YAiCEU
+No. PT 5765, Jln Ukay Perdana, Ukay Perdana, 68000 Ampang, Selangor
+Monday - Sunday (8:00AM - 10:00PM)
+3.1971288, 101.7753044
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Lotus Cheras
+https://waze.com/ul?ll=3.099541,101.734766
+Lot G27-G29, No.2, Jalan Midah 2, Taman Midah, 56000 Cheras, Kuala Lumpur
+Monday - Sunday, 9:30 AM - 9:00 PM
+3.102042, 101.7339485
+MON 09:30 AM - 09:00 PM
+TUE 09:30 AM - 09:00 PM
+WED 09:30 AM - 09:00 PM
+THU 09:30 AM - 09:00 PM
+FRI 09:30 AM - 09:00 PM
+SAT 09:30 AM - 09:00 PM
+SUN 09:30 AM - 09:00 PM
+
+Subway Equine Park
+https://www.waze.com/en/live-map/directions/my/selangor/seri-kembangan/subway-equine-park?place=ChIJQWbBMNO1zTERb4qKY97QGxs
+7-G, Jalan Putra Permai 1A, Taman Equine, 43300 Seri Kembangan, Selangor.
+Monday - Sunday, 8:00 AM - 10:00 PM
+2.9961824, 101.6697448
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Syopz
+https://www.waze.com/en/live-map/directions/subway-syopz-mall-lot-lg1-7-taylor-college-lakeside-campus-subang-jaya?place=w.66584607.665977138.27399053
+G-5, The Boardwalk, No.2, Jalan Taylor’s, 47500 Subang Jaya, Selangor Darul Ehsan
+Monday - Saturday, 10:00 AM – 10:00PM
+Sunday, Closed
+3.064785, 101.6168101
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+
+Subway Matahari Mall
+https://waze.com/ul?ll=3.080121,101.638012
+Lot S15 & S16 , Ground Floor, Matahari Mall, No. 1, PJS 2/18, Taman Maju Jaya, 46000 Petaling Jaya,Selangor
+Monday - Sunday (10:00AM - 9:30PM)
+Fasting Month :
+Mon-Sun, 12:00PM - 09:00PM
+3.0798367, 101.6380193
+MON 10:00 AM - 09:30 PM
+TUE 10:00 AM - 09:30 PM
+WED 10:00 AM - 09:30 PM
+THU 10:00 AM - 09:30 PM
+FRI 10:00 AM - 09:30 PM
+SAT 10:00 AM - 09:30 PM
+SUN 10:00 AM - 09:30 PM
+
+Subway SPARK
+https://waze.com/ul?ll=3.082778,101.702471
+1-01 Plaza Salak Park, No 2, Jalan 1/125E, Taman Desa Petaling, 57100 Kuala Lumpur
+Monday - Sunday (8:00AM - 10:00PM)
+3.0827782, 101.7024706
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Sunway Pyramid
+https://www.waze.com/en/live-map/directions/my/selangor/pj/subway-sunway-pyramid?place=ChIJm21YdodMzDERFtdyEMzPHLI
+LG2.32, Lower Ground Two, Sunway Pyramid, 3, Jalan PJS 11/15, Bandar Sunway, 47500 Petaling Jaya, Selangor
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.0720837, 101.6063455
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Caltex Serdang
+https://waze.com/ul?ll=3.047098,101.704403
+No.2, Lot.14985, Jalan SR 8/1, Taman Putra Indah, 43300, Seri Kembangan, Selangor
+Monday - Sunday, 8:00 AM - 10:00 PM
+3.0470979, 101.7044027
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Subang Bestari
+https://www.waze.com/en/live-map/directions/subway-subang-bestari-jalan-nova-u5n-4-shah-alam?place=w.66519072.665518398.26851094
+No 4, Jalan Nova N U5/N, Seksyen U5, 40150 Shah Alam, Selangor
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.1864577, 101.5337361
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Denai Alam
+https://www.waze.com/en/live-map/directions/my/selangor/shah-alam/subway-denai-alam?place=ChIJ-3Els5pRzDERJRqqSNFklxg
+Unit Ground Floor, No 7, Jalan Electron E U16/E, Seksyen U16, 40160 Shah Alam,Selangor
+Monday - Sunday, 8:15 AM - 9:45 PM
+3.1612352, 101.5118303
+MON 08:15 AM - 09:45 PM
+TUE 08:15 AM - 09:45 PM
+WED 08:15 AM - 09:45 PM
+THU 08:15 AM - 09:45 PM
+FRI 08:15 AM - 09:45 PM
+SAT 08:15 AM - 09:45 PM
+SUN 08:15 AM - 09:45 PM
+
+Subway Aeon Taman Maluri
+https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/cheras/subway-aeon-taman-maluri?place=ChIJxZc1CgI3zDER0L07egWJ6A4
+Lot G32,AEON Mall Taman Maluri, Jalan Jejaka, Taman Maluri Cheras 55100, Kuala Lumpur
+Sunday - Thursday, 10:00 AM – 10:00PM
+Friday & Saturday, 10:00 AM – 10:30PM
+3.1259253, 101.7283988
+SUN 10:00 AM - 10:00 PM
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:30 PM
+SAT 10:00 AM - 10:30 PM
+
+Subway Subang Perdana
+https://www.waze.com/en/live-map/directions/my/selangor/subang-jaya/subway-subang-perdana?place=ChIJ4cb8F1BPzDERwkdC9tagYg0
+No. 17-G, Jalan Dinar D U3/D, Seksyen U3, 40150 Shah Alam, Selangor
+Monday - Sunday, 8:00 AM - 10:00 PM
+Fasting Month :
+Mon - Sun, 10:00AM - 10:00PM
+3.1488191, 101.5455463
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway KL Gateway
+https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-kl-gateway-mall?place=ChIJ1cy2C85JzDERxEe6xZaRRyg
+G1.K5, Lower Ground 1, KL Gateway Mall, 2, Jalan Kerinchi, 59200 Kuala Lumpur
+Monday - Sunday (8:00AM - 10:00PM)
+3.114035, 101.6634081
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Lotuss Selayang
+https://waze.com/ul?ll=3.222777,101.670945
+Lot F-18 & 18 (External) No. 1081, Jalan Ipoh Mukim Batu 51200 Kuala Lumpur
+Monday - Sunday (10:00AM - 10:00PM)
+3.175161, 101.6865518
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Hartamas SC
+https://waze.com/ul?ll=3.163504,101.656995
+Lot G-22A & G-22B . Hartamas Shopping Center, 60, Jalan Sri Hartamas 1, Taman Sri Hartamas, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur
+Monday - Sunday (10:00AM - 10:00PM)
+3.163504, 101.656995
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Paradigm Mall
+https://waze.com/ul?ll=3.105084,101.596048
+LG-33A(P), LG Floor No. 1, Jalan SS7/26A Kelana Jaya 47301 Petaling Jaya Selangor
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.1050837, 101.5960481
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Damen
+https://www.waze.com/en/live-map/directions/my/selangor/subang-jaya/subway-da-men?place=ChIJ9-92ti9NzDERgRUlEJ3Y8Wc
+LG38, Lower Ground Floor Damen USJ 1 Jalan Persiaran Kewajipan USJ 1 47600 Subang Jaya
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.0585253, 101.5926696
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Tropicana Garden
+https://waze.com/ul?ll=3.149188,101.593094
+CC-K55A, Concourse Floor, No. 2A, Persiaran Surian Tropicana Indah, 47810 Petaling Jaya, Selangor
+Monday - Sunday (10:00AM - 10:00PM)
+3.1491875, 101.5930935
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Main Place
+https://www.waze.com/en/live-map/directions/my/selangor/subang-jaya/subway?place=ChIJjb3QkzGzzTERYh-RwcOFeEY
+LG33, Main Place Mall USJ, Jalan USJ 21/10, Persiaran Kewajipan, 47630 Subang Jaya, Selangor.  
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.02632, 101.5811466
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Intermark Mall
+https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-the-intermark?place=ChIJ48goZMU3zDERrTBFRU1gP-Mhttps://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/kuala-lumpur/subway-the-intermark?place=ChIJ48goZMU3zDERrTBFRU1gP-M
+The Intermark, Intermark Mall, 348, Jalan Tun Razak, 50400 Kuala Lumpur
+Monday - Sunday, 10:00 AM - 10:00 PM
+3.1621044, 101.7203088
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Central Square
+https://www.waze.com/en/live-map/directions/subway-central-square-lot-gk-02,-central-square-shopping-center-sungai-petani?place=w.65863736.658571828.27396324
+23 Jalan Kampung Baru Lot GK-02 Central Square Shopping Center, 08000 Sungai Petani, Kedah
+Monday - Sunday, 9:00 AM - 10:00 PM
+5.6369764, 100.4885066
+MON 09:00 AM - 10:00 PM
+TUE 09:00 AM - 10:00 PM
+WED 09:00 AM - 10:00 PM
+THU 09:00 AM - 10:00 PM
+FRI 09:00 AM - 10:00 PM
+SAT 09:00 AM - 10:00 PM
+SUN 09:00 AM - 10:00 PM
+
+Subway The Grand SS15
+https://www.waze.com/en/live-map/directions/my/selangor/subang-jaya/subway-the-grand-subang-jaya?place=ChIJJxTAK6JNzDER4MbW2WX_jG0
+G7, The Grand Subang Jaya, Jalan SS 15/8a, Ss 15, 47500 Subang Jaya, Selangor
+Monday - Sunday, 8:00 AM - 10:00 PM
+3.0744152, 101.5902974
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Radia Bukit Jelutong
+https://www.waze.com/en/live-map/directions/my/selangor/shah-alam/subway-radia-bukit-jelutong?place=ChIJ98G9H_JNzDERRS_vEqme9_s
+G0-23, Radia Sales Gallery, Persiaran Arked, Bukit Jelutong, 40150 Shah Alam, Selangor
+Monday - Sunday, 7:30 AM - 10:00 PM
+3.1001976, 101.5350661
+MON 07:30 AM - 10:00 PM
+TUE 07:30 AM - 10:00 PM
+WED 07:30 AM - 10:00 PM
+THU 07:30 AM - 10:00 PM
+FRI 07:30 AM - 10:00 PM
+SAT 07:30 AM - 10:00 PM
+SUN 07:30 AM - 10:00 PM
+
+Subway Kelana Jaya (KJ)
+https://www.waze.com/en/live-map/directions/my/selangor/pj/subway-kelana-jaya-or-kelana-parkview?place=ChIJRU4RwhBMzDERZ_FO9UjGJ7g
+Suite 109b, Ground Floor, Office Tower, Kelana Park View, No.1, Jalan SS6/2, 47301 Petaling Jaya, Selangor
+Monday - Sunday, 8:30 AM - 8:30 PM
+3.1008867, 101.5991613
+MON 08:30 AM - 08:30 PM
+TUE 08:30 AM - 08:30 PM
+WED 08:30 AM - 08:30 PM
+THU 08:30 AM - 08:30 PM
+FRI 08:30 AM - 08:30 PM
+SAT 08:30 AM - 08:30 PM
+SUN 08:30 AM - 08:30 PM
+
+Subway Sierra 16 Puchong
+https://www.waze.com/en/live-map/directions/my/selangor/puchong/subway16sierra?place=ChIJ4cJ0tYW1zTERx74e0tVmW9g
+Lot 3A-1, Sierra Fresco, Jln Sierra 10/1, Bandar 16 Sierra, 47110 Puchong, Selangor.
+Monday - Sunday (8:00AM - 10:00PM)
+Fasting Month :
+Mon-Sun, 11:00AM - 10:00PM
+2.9744255, 101.6550518
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Caltex Bukit Indah Ampang
+https://waze.com/ul?ll=3.152855,101.774414
+Caltex Bukit Indah, PT13887, Medan Bukit Indah, Taman Bukit Indah, 69000 Ampang, Selangor
+Monday - Sunday, 8:00 AM - 10:00 PM
+3.152899300000001, 101.7743256
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Taman Danau Desa
+https://waze.com/ul?ll=3.100857,101.687222
+Monday - Sunday (8:00AM - 10:00PM)
+0, 0
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Setapak Central Mall
+https://waze.com/ul?ll=3.205267,101.720020
+Kl Festival City, Lot S-23, No 67 Jalan Taman Ibu Kota, Taman Danau Kota, Setapak, Kuala Lumpur, 53200
+Monday - Sunday (10:00AM - 10:00PM)
+3.204403, 101.720566
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Taman Ehsan
+https://waze.com/ul?ll=3.220409,101.622847
+No 520(GF) Jalan E3/8, Tmn Ehsan, 52100 Kepong, Selangor
+Monday - Sunday (8:00AM - 10:00PM)
+3.213966, 101.6355931
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Taman Sri Muda
+https://waze.com/ul?ll=3.032726,101.536497
+No 40 (GF), Jalan Murni 25/61, Taman Sri Muda, 40400 Shah Alam, Selangor
+Monday - Sunday (8:00AM - 10:00PM)
+3.0327538, 101.5365242
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Mid Valley KL
+https://waze.com/ul?ll=3.118753,101.677459
+1st Floor, Zone 3, Kiosk FK-05, Mid Valley Megamall, Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur
+Monday - Sunday (8:00AM - 10:00PM)
+3.1176991, 101.6774777
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Lotus Ampang
+https://waze.com/ul?ll=3.143814,101.741630
+LOTUS’S AMPANG - OL1, Jalan Pandan Prima Dataran, Pandan Indah, 55100 Kuala Lumpur
+Monday - Sunday (10:00AM - 10:00PM)
+ 
+3.1439057, 101.741801
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Razak City
+https://waze.com/ul?ll=3.108465,101.706308
+Block B-G-19 Residensi Bandar Razak, No 01 Jln Razak Mansion, 57100 Sungai Besi, K.L
+Monday - Sunday (08:00AM to 10:00PM)
+3.107851, 101.7069517
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+
+Subway Aeon Cheras Selatan
+https://waze.com/ul?ll=3.033015,101.765206
+F60, First Floor, ÆON Cheras Selatan, Lebuh Utama Tun Hussein Onn, Tun Hussein Onn, Cheras, Selangor
+Monday to Sunday (10:00AM - 10:00PM)
+3.0494764, 101.7654878
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Kiara Bay
+https://waze.com/ul?ll=3.226999,101.650259
+"Lot G-22, The Beat Kiara Bay Kepong Metropolitan Park,Jalan Lingkaran Tengah 52100 Kuala Lumpur."
+Monday - Sunday (10:00AM - 10:00PM)
+3.224691, 101.645645
+MON 10:00 AM - 10:00 PM
+TUE 10:00 AM - 10:00 PM
+WED 10:00 AM - 10:00 PM
+THU 10:00 AM - 10:00 PM
+FRI 10:00 AM - 10:00 PM
+SAT 10:00 AM - 10:00 PM
+SUN 10:00 AM - 10:00 PM
+
+Subway Putra Ampang
+https://waze.com/ul?ll=3.120457,101.762861
+No 46-G, Jalan Bunga Tanjung 9B, Taman Putra, Ampang 68000, Selangor
+Monday - Sunday (08:00AM - 10:00PM)
+3.1200879, 101.7624429
+MON 08:00 AM - 10:00 PM
+TUE 08:00 AM - 10:00 PM
+WED 08:00 AM - 10:00 PM
+THU 08:00 AM - 10:00 PM
+FRI 08:00 AM - 10:00 PM
+SAT 08:00 AM - 10:00 PM
+SUN 08:00 AM - 10:00 PM
+

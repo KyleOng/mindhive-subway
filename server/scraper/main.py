@@ -6,6 +6,7 @@ from typing import Callable, List
 
 from app import models
 from app.db import SessionLocal
+from lib.geocoding import geocoding_and_insert_coordinates
 from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.remote.webelement import WebElement
@@ -60,7 +61,7 @@ def search_input_field_button_and_click(driver: WebDriver):
 
 
 def process_outlet_operating_hours(
-    text: str, db_outlet: models.Outlet, file: TextIOWrapper
+    text: str, db: Session, db_outlet: models.Outlet, file: TextIOWrapper
 ):
     text = text.replace(" ", "")
     extractor = OperatingHoursExtractor()
@@ -81,7 +82,7 @@ def process_outlet_operating_hours(
 
         db_outlet_operating_hours = models.OperatingHour(
             outlet_id=db_outlet.id,
-            day_of_the_week=DAYS_OF_WEEK.index(day_of_week),
+            day_of_week=DAYS_OF_WEEK.index(day_of_week),
             start_time=start_time,
             end_time=end_time,
         )
@@ -112,19 +113,27 @@ def process_outlets(outlets: List[WebElement], db: Session, file: TextIOWrapper)
             ).get_attribute("href")
             or ""
         )
+        outlet_latitude, outlet_longitude = geocoding_and_insert_coordinates(
+            outlet_address
+        )
 
         file.write(outlet_name + "\n")
         file.write(outlet_waze_link + "\n")
         file.write(outlet_info.text + "\n")
+        file.write(str(outlet_latitude) + ", " + str(outlet_longitude) + "\n")
 
         db_outlet = models.Outlet(
-            name=outlet_name, address=outlet_address, waze_link=outlet_waze_link
+            name=outlet_name,
+            address=outlet_address,
+            waze_link=outlet_waze_link,
+            latitude=outlet_latitude,
+            longitude=outlet_longitude,
         )
         db.add(db_outlet)
         db.commit()
         db.refresh(db_outlet)
 
-        process_outlet_operating_hours(outlet_info.text, db_outlet, file)
+        process_outlet_operating_hours(outlet_info.text, db, db_outlet, file)
         file.write("\n")
 
 
