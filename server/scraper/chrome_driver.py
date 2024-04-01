@@ -1,6 +1,9 @@
 import logging
+from typing import Callable
 
 from selenium import webdriver
+from selenium.webdriver.remote.webdriver import WebDriver
+from selenium.webdriver.support.wait import WebDriverWait
 
 logger = logging.getLogger(__package__)
 
@@ -23,3 +26,16 @@ class ChromeDriver:
 
         if exc_type:
             logger.error("%s %s %s" % (exc_type, exc_value, exc_traceback))
+
+
+# Wait until the specified condition is met on the WebDriver.
+def wait(
+    driver: WebDriver,
+    timeout: int,
+    by: str,
+    value: str,
+    expected_conditions_function: Callable,
+):
+    return WebDriverWait(driver, timeout).until(
+        expected_conditions_function((by, value))
+    )
