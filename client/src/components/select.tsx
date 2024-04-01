@@ -29,11 +29,16 @@ const Select = ({ outlets, selectRef }: Props) => {
       <option disabled selected>
         -- Select An Outlet --
       </option>
-      {outlets.map((outlet, key) => (
-        <option key={key} value={outlet.id}>
-          {outlet.name}
-        </option>
-      ))}
+      {outlets
+        .slice()
+        .sort((a, b) => {
+          return a.name.localeCompare(b.name);
+        })
+        .map((outlet, key) => (
+          <option key={key} value={outlet.id}>
+            {outlet.name}
+          </option>
+        ))}
     </select>
   );
 };

@@ -3,16 +3,14 @@ import { QueryResult } from "../interfaces/query-result.interface";
 import dayjs from "dayjs";
 
 interface Props {
-  key: number;
   queryResult: QueryResult;
   setQueryResults: () => void;
 }
 
-const QnA = ({ key, queryResult, setQueryResults }: Props) => {
+const QnA = ({  queryResult, setQueryResults }: Props) => {
   return (
     <div
       className="flex flex-col gap-y-1 rounded bg-white p-4 shadow-lg"
-      key={key}
     >
       <div className="flex items-start justify-between">
         <p className="text-sm font-medium text-blue-500">{queryResult.input}</p>

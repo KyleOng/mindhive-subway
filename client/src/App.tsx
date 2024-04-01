@@ -36,6 +36,7 @@ const App = () => {
 
   return (
     <div className="relative">
+      {/* Map view */}
       <APIProvider apiKey={GOOGLE_GEOCODING_API_KEY}>
         <Map
           style={{ width: "100vw", height: "100vh" }}
@@ -57,10 +58,13 @@ const App = () => {
           ))}
         </Map>
       </APIProvider>
+
+      {/* AI Q&A top right corner */}
       <div className="fixed right-0 top-0 m-5">
         <QnAs />
       </div>
 
+      {/* Outlet selection top left corner */}
       <div className="fixed left-0 top-0 m-5">
         <Select selectRef={selectRef} outlets={outlets} />
       </div>
