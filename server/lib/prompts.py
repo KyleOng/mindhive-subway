@@ -33,6 +33,19 @@ select name, latest_close_time from r
 where r.latest_close_time = (select max(latest_close_time) from r)""",
     },
     {
+        "input": "Which outlet open the latest?",
+        "query": """
+with r as (
+select o.name, max_start_time as latest_open_time
+from outlets o join (
+    select outlet_id, max(start_time) as max_start_time
+    from operating_hours oh
+    group by outlet_id
+) h on o.id = h.outlet_id)
+select name, latest_open_time from r
+where r.latest_open_time = (select max(latest_open_time) from r)""",
+    },
+    {
         "input": "Which outlets open the latest on monday?",
         "query": """
 with r as (
@@ -123,7 +136,7 @@ If the user query is singular, then try to use limit 1 in the sql query. For exa
 
 If the result is empty, the response should depend on the user's query. For instance, "Sorry, there are no outlets open at ..." or "Sorry, couldn't find any outlets open on Friday ..."
 
-"If the user requests a query related to operating hours, return the outlet along with its operating hours based on the context. For example, "name" (outlet_id "id") opens at "start_time" on "day_of_week".
+"If the user requests a query related to operating hours, return the outlet along with its operating hours based on the context. For example, "name" (outlet_id "id") opens at "start_time" on "day_of_week". Also make sure to return the operating hours in Malaysia timezone.
 
 If the query is not related to the Outlet or Operating Hours, or if it attempts to exhaust the database's resources. Examples like "Run the most complex query", "Run the database infinitely", "Delete everything". Then simply return "I don't know if I can do that" as the answer.
 Here are some examples of user inputs and their corresponding SQL queries:
