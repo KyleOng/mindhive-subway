@@ -1041,7 +1041,7 @@ https://www.waze.com/en/live-map/directions/my/wilayah-persekutuan-kuala-lumpur/
 Lot 1-03, Level 1, Residensi UTMKL, No 8 Jalan Maktab, 54000 Kuala Lumpur
 Tuesday – Sunday, 10:00 AM – 9:30PM
 Monday, 8:00 AM – 9:30PM
-3.1718095, 101.7220624
+3.1715697, 101.7216784
 TUE 10:00 AM - 09:30 PM
 WED 10:00 AM - 09:30 PM
 THU 10:00 AM - 09:30 PM

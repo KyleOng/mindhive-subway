@@ -24,7 +24,7 @@ class Outlet(OutletBase):
 
 
 class OperatingHourBase(BaseModel):
-    day_of_week: str
+    day_of_week: int
     start_time: time
     end_time: time
 
