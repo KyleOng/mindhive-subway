@@ -62,7 +62,7 @@ const App = () => {
       </div>
 
       <div className="fixed left-0 top-0 m-5">
-        <Select selectRef={selectRef} outlets={outlets}/>
+        <Select selectRef={selectRef} outlets={outlets} />
       </div>
     </div>
   );
