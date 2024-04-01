@@ -1,6 +1,8 @@
 import sys
 from pathlib import Path
 
+# Add the parent directory of the current file to the system path
+# This allows accessing methods defined in subdirectories of the parent directory.
 sys.path.append(str(Path(__file__).parent.parent))
 
 from datetime import datetime, timezone
@@ -37,6 +39,10 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+@app.get("/")
+def root():
+    return {"liveness": "ok"}
 
 
 @app.get("/outlets", response_model=list[schemas.Outlet])
@@ -88,5 +94,6 @@ async def ask(input: str):
             "datetime": datetime.now(timezone.utc).isoformat(),
         }
 
+
 if __name__ == "__main__":
-  uvicorn.run("api.main:app", host="0.0.0.0", port=8000, reload=True)
+    uvicorn.run("api.main:app", host="127.0.0.1", port=8000, reload=True)
