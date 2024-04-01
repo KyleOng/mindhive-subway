@@ -25,7 +25,8 @@ def get_db():
         db.close()
 
 
-app = FastAPI()
+# nginx proxy
+app = FastAPI(root_path="/api") 
 
 
 origins = [
@@ -48,6 +49,11 @@ def root():
 @app.get("/outlets", response_model=list[schemas.Outlet])
 async def read_outlets(skip: int = 0, limit: int = 100, db: Session = Depends(get_db)):
     return db.query(models.Outlet).offset(skip).limit(limit).all()
+
+
+@app.post("/outlets/operating_hours")
+async def get_operating_hours(outlet_id: int, db: Session = Depends(get_db)):
+    return db.query(models.OperatingHour).where(models.OperatingHour.outlet_id == outlet_id).all()
 
 
 @app.post("/outlets/within_radius")
