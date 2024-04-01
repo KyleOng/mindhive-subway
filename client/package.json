@@ -12,11 +12,13 @@
   "dependencies": {
     "@vis.gl/react-google-maps": "^0.8.2",
     "clsx": "^2.1.0",
+    "dayjs": "^1.11.10",
     "lucide-react": "^0.363.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "tailwind-merge": "^2.2.2",
-    "usehooks-ts": "^3.0.2"
+    "usehooks-ts": "^3.0.2",
+    "zustand": "^4.5.2"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
