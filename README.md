@@ -11,6 +11,7 @@
 - Python *(version 3.9.5)*
 - FastAPI - Backend framework
 - SqlAlchemy - PostgreSQL ORM
+- Selenium - Web Scraping
 - Langchain Python SDK - SQL Database Agent (Postgres Dialect)
 - Google Geocoding - Latitude Longitude API
 - etc
