@@ -829,7 +829,7 @@ Subway My Town
 https://www.waze.com/en/live-map/directions/subway-mytown-shopping-centre-b1-07-and-b1-08,-mytown-shopping-centre,-55100-kuala-lumpur?place=w.66650143.666632505.27397019
 Lot B1-07 & B1-08, Level Basement 1, MyTOWN Shopping Centre, Jalan Cochrane, Seksyen 90, Kuala Lumpur, 55100
 Monday - Sunday, 10:00 AM - 10:00 PM
-3.1499222, 101.6944619
+3.1348631, 101.7228429
 MON 10:00 AM - 10:00 PM
 TUE 10:00 AM - 10:00 PM
 WED 10:00 AM - 10:00 PM
@@ -922,7 +922,7 @@ Subway Melawati Mall
 https://www.waze.com/en/live-map/directions/subway-melawati-mall-lot-l3-22-melawati-mall,-ampang-kuala-lumpur?place=w.66650144.666829121.27398467
 L3-22, Third Floor, Melawati Mall, UP2-01, Melawati Mall, 355, Jalan Bandar Melawati, Pusat Bandar Melawati, 53100 Kuala Lumpur
 Monday - Sunday, 10:00 AM - 10:00 PM
-3.212581, 101.7470841
+3.2109589, 101.7487551
 MON 10:00 AM - 10:00 PM
 TUE 10:00 AM - 10:00 PM
 WED 10:00 AM - 10:00 PM
