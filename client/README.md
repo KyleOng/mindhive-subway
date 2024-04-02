@@ -1,30 +1,73 @@
-# React + TypeScript + Vite
+# Client
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Built using:
+- Typescript with Node JS *(version 20.5.2)*
+- React - Frontend framework
+- TailwindCSS - Styling
+- Zustant - State managament
+- React Google Maps `@vis.gl/react-google-maps` - Google Map
+- etc
 
-Currently, two official plugins are available:
+## Table of content
+- [Prerequisites](#prerequisites)
+- [Setup](#setup)
+- [Running the client](#running-client)
+- [File structure](#file-structure)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Prerequisites<a name="prerequisites"></a>
+- Typescript with Node JS version 20.5.2 and above
+- Google Geocoding API Key
+- Google Map API (Set up Google Cloud Map Management)
+- Server running (refer to `../server`)
 
-## Expanding the ESLint configuration
+## Setup<a name="setup"></a>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Install node modules using the command below
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+```bash
+npm i
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Define the environment variables as below.
+
+```env
+VITE_GOOGLE_GEOCODING_API_KEY=
+VITE_API_URL = 
+VITE_GOOGLE_MAP_ID = 
+```
+- `VITE_GOOGLE_GEOCODING_API_KEY`= Google Geocoding API Key for displaying Google Map.
+- `VITE_API_URL` = Server api url, if running in local then the value should be like `http://127.0.0.1:8000`.
+- `VITE_GOOGLE_MAP_ID` = Google Map API set up in Google Cloud Map Management Dashboard.
+
+## Running the client<a name="running-client"></a>
+
+To start the client, use the following command:
+
+```
+npm run dev
+```
+
+The server should now be running at http://127.0.0.1:5173.
+
+## File structure<a name="file-structure"></a>
+
+Files/Folders structure that you might need to know and its purposes.
+
+All the codes are stored in the `./client/src` directory.
+
+- |_📁 `components`: stores React client components
+- &nbsp;&nbsp;&nbsp;&nbsp;|_📄 `info-window.tsx`: React Google Maps info window wrapper component.
+- &nbsp;&nbsp;&nbsp;&nbsp;|_📄 `marker.tsx`: React Google Maps marker component.
+- &nbsp;&nbsp;&nbsp;&nbsp;|_📄 `prompt-input.tsx`: input bar for AI agent prompt.
+- &nbsp;&nbsp;&nbsp;&nbsp;|_📄 `qna.tsx`: stores each response query from AI agent.
+- &nbsp;&nbsp;&nbsp;&nbsp;|_📄 `qnas.tsx`: storse list of qna.
+- &nbsp;&nbsp;&nbsp;&nbsp;|_📄 `select.tsx`: select input bar for outlet selection.
+- |_📁 `interfaces`: stores Typescript interfaces.
+- |_📁 `lib`: stores 3rd party lib utils.
+- |_📁 `store`: stores zustand stores.
+- &nbsp;&nbsp;&nbsp;&nbsp;|_📄 `highlighted-markers.ts`: stores state for which markers should be highlighted.
+- &nbsp;&nbsp;&nbsp;&nbsp;|_📄 `info-window`: stores state for which info window should be opened.
+- |_📄 `App.tsx`: root app component.
+- |_📄 `index.css`: css styling.
+- |_📄 `main.tsx`: entry file for running React app.
+
