@@ -25,7 +25,7 @@ After activate the virtual env, install the required Python packages.
 pip install -r requirement.txt
 ```
 
-### 2 .Install chrome and chrome driver
+### 2. Install chrome and chrome driver
 
 Download the Chrome Driver compatible with your Chrome browser version from [here](https://googlechromelabs.github.io/chrome-for-testing/). 
 
@@ -63,8 +63,6 @@ Update the `SQLALCHEMY_DATABASE_URL` value in the .env file with your database c
 ### 5. Database migration
 
 Run the following command for database migration.
-
-\*Make sure you activate the virtual env, install all packages and  define the correct connection string in the `SQLALCHEMY_DATABASE_URL` env variable\*
 
 ```bash
 alembic upgrade head
@@ -130,7 +128,7 @@ Finally, define the env `SQLALCHEMY_DATABASE_LLM_URL` with the postgres connecti
 
 To start the server, use the following command:
 
-```bash
+```
 python api/main.py
 ```
 
