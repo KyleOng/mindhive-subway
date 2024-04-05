@@ -22,7 +22,6 @@ Data retrieved from the Subway website, processed, and stored in a database.
 - Selenium - Web Scraping
 - Langchain Python SDK - SQL Database Agent (Postgres Dialect)
 - Google Geocoding - Latitude Longitude API
-- etc
 
 **Frontend**:
 - Typescript with Node JS *(version 20.5.2)*
@@ -30,7 +29,6 @@ Data retrieved from the Subway website, processed, and stored in a database.
 - TailwindCSS - Styling
 - Zustant - State managament
 - React Google Maps `@vis.gl/react-google-maps` - Google Map
-- etc
 
 **Deployment**:
 - AWS RDS - Postgres Database
